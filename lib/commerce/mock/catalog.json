@@ -1,0 +1,4458 @@
+[
+ {
+  "id": "prod_rent_4073",
+  "handle": "oberfraese-bosch-makita",
+  "title": "Oberfräse",
+  "subtitle": "Bosch / Makita",
+  "description": null,
+  "thumbnail": "/products/oberfraese-bosch-makita.webp",
+  "categories": [
+   {
+    "handle": "mieten-hand",
+    "name": "hand"
+   }
+  ],
+  "metadata": {
+   "kind": "rental",
+   "code": "M-09",
+   "group": "hand",
+   "note": "Nuten, Kanten, Profile",
+   "accessories": [],
+   "source_name": "Oberfräser | Bosch/Makita",
+   "rank": 9
+  },
+  "options": [],
+  "variants": [
+   {
+    "id": "variant_rent_4073",
+    "title": "Tagesmiete",
+    "sku": "M-09",
+    "options": {},
+    "calculated_price": {
+     "calculated_amount": 25.0,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 9,
+    "allow_backorder": false
+   }
+  ]
+ },
+ {
+  "id": "prod_rent_4072",
+  "handle": "stichsaege-bosch-makita",
+  "title": "Stichsäge",
+  "subtitle": "Bosch / Makita",
+  "description": null,
+  "thumbnail": "/products/stichsaege-bosch-makita.webp",
+  "categories": [
+   {
+    "handle": "mieten-saegen",
+    "name": "saegen"
+   }
+  ],
+  "metadata": {
+   "kind": "rental",
+   "code": "M-13",
+   "group": "saegen",
+   "note": "Ausschnitte, Rundungen",
+   "accessories": [],
+   "source_name": "Stichsäge | Bosch/Makita",
+   "rank": 13
+  },
+  "options": [],
+  "variants": [
+   {
+    "id": "variant_rent_4072",
+    "title": "Tagesmiete",
+    "sku": "M-13",
+    "options": {},
+    "calculated_price": {
+     "calculated_amount": 25.0,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 9,
+    "allow_backorder": false
+   }
+  ]
+ },
+ {
+  "id": "prod_rent_4071",
+  "handle": "inspektionskamera-laserline",
+  "title": "Inspektionskamera",
+  "subtitle": "Laserline",
+  "description": null,
+  "thumbnail": "/products/inspektionskamera-laserline.webp",
+  "categories": [
+   {
+    "handle": "mieten-weitere",
+    "name": "weitere"
+   }
+  ],
+  "metadata": {
+   "kind": "rental",
+   "code": "M-16",
+   "group": "weitere",
+   "note": "Hohlräume, Rohre, Dielen",
+   "accessories": [],
+   "source_name": "Inspektion Kamera | Laserline",
+   "rank": 16
+  },
+  "options": [],
+  "variants": [
+   {
+    "id": "variant_rent_4071",
+    "title": "Tagesmiete",
+    "sku": "M-16",
+    "options": {},
+    "calculated_price": {
+     "calculated_amount": 20.0,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 9,
+    "allow_backorder": false
+   }
+  ]
+ },
+ {
+  "id": "prod_rent_4070",
+  "handle": "kapp-und-gehrungssaege-305-bosch",
+  "title": "Kapp- und Gehrungssäge 305",
+  "subtitle": "Bosch",
+  "description": null,
+  "thumbnail": "/products/kapp-und-gehrungssaege-305-bosch.webp",
+  "categories": [
+   {
+    "handle": "mieten-saegen",
+    "name": "saegen"
+   }
+  ],
+  "metadata": {
+   "kind": "rental",
+   "code": "M-11",
+   "group": "saegen",
+   "note": "breite Bretter, Treppenstufen",
+   "accessories": [],
+   "source_name": "Kapsäge 305 | Bosch",
+   "rank": 11
+  },
+  "options": [],
+  "variants": [
+   {
+    "id": "variant_rent_4070",
+    "title": "Tagesmiete",
+    "sku": "M-11",
+    "options": {},
+    "calculated_price": {
+     "calculated_amount": 40.0,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 9,
+    "allow_backorder": false
+   }
+  ]
+ },
+ {
+  "id": "prod_rent_4069",
+  "handle": "kapp-und-gehrungssaege-216-bosch",
+  "title": "Kapp- und Gehrungssäge 216",
+  "subtitle": "Bosch",
+  "description": null,
+  "thumbnail": "/products/kapp-und-gehrungssaege-216-bosch.webp",
+  "categories": [
+   {
+    "handle": "mieten-saegen",
+    "name": "saegen"
+   }
+  ],
+  "metadata": {
+   "kind": "rental",
+   "code": "M-10",
+   "group": "saegen",
+   "note": "Sockelleisten, Dielen kürzen",
+   "accessories": [],
+   "source_name": "Kapsäge 216 | Bosch",
+   "rank": 10
+  },
+  "options": [],
+  "variants": [
+   {
+    "id": "variant_rent_4069",
+    "title": "Tagesmiete",
+    "sku": "M-10",
+    "options": {},
+    "calculated_price": {
+     "calculated_amount": 35.0,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 9,
+    "allow_backorder": false
+   }
+  ]
+ },
+ {
+  "id": "prod_rent_4068",
+  "handle": "fliesenschneider-60-90-cm-rubi",
+  "title": "Fliesenschneider 60/90 cm",
+  "subtitle": "Rubi",
+  "description": null,
+  "thumbnail": "/products/fliesenschneider-60-90-cm-rubi.webp",
+  "categories": [
+   {
+    "handle": "mieten-saegen",
+    "name": "saegen"
+   }
+  ],
+  "metadata": {
+   "kind": "rental",
+   "code": "M-14",
+   "group": "saegen",
+   "note": "Fliesen bis 90 cm",
+   "accessories": [],
+   "source_name": "Fliesen Schneider 60/90 Cm | Rubi",
+   "rank": 14
+  },
+  "options": [],
+  "variants": [
+   {
+    "id": "variant_rent_4068",
+    "title": "Tagesmiete",
+    "sku": "M-14",
+    "options": {},
+    "calculated_price": {
+     "calculated_amount": 22.0,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 9,
+    "allow_backorder": false
+   }
+  ]
+ },
+ {
+  "id": "prod_rent_4067",
+  "handle": "stemm-und-abbruchhammer-bosch-makita",
+  "title": "Stemm- und Abbruchhammer",
+  "subtitle": "Bosch / Makita",
+  "description": null,
+  "thumbnail": "/products/stemm-und-abbruchhammer-bosch-makita.webp",
+  "categories": [
+   {
+    "handle": "mieten-weitere",
+    "name": "weitere"
+   }
+  ],
+  "metadata": {
+   "kind": "rental",
+   "code": "M-15",
+   "group": "weitere",
+   "note": "Fliesen und Estrich entfernen",
+   "accessories": [],
+   "source_name": "Stämm/Abbruchhammer | Bosch/Makita",
+   "rank": 15
+  },
+  "options": [],
+  "variants": [
+   {
+    "id": "variant_rent_4067",
+    "title": "Tagesmiete",
+    "sku": "M-15",
+    "options": {},
+    "calculated_price": {
+     "calculated_amount": 40.0,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 9,
+    "allow_backorder": false
+   }
+  ]
+ },
+ {
+  "id": "prod_rent_4066",
+  "handle": "multifunktionswerkzeug-fein",
+  "title": "Multifunktionswerkzeug",
+  "subtitle": "Fein",
+  "description": null,
+  "thumbnail": "/products/multifunktionswerkzeug-fein.webp",
+  "categories": [
+   {
+    "handle": "mieten-hand",
+    "name": "hand"
+   }
+  ],
+  "metadata": {
+   "kind": "rental",
+   "code": "M-08",
+   "group": "hand",
+   "note": "Ecken, Fugen, Sockelleisten",
+   "accessories": [],
+   "source_name": "Multifunktion Werkzeug | Fein",
+   "rank": 8
+  },
+  "options": [],
+  "variants": [
+   {
+    "id": "variant_rent_4066",
+    "title": "Tagesmiete",
+    "sku": "M-08",
+    "options": {},
+    "calculated_price": {
+     "calculated_amount": 35.0,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 9,
+    "allow_backorder": false
+   }
+  ]
+ },
+ {
+  "id": "prod_rent_4065",
+  "handle": "rotex-exzenterschleifer-festool",
+  "title": "Rotex-Exzenterschleifer",
+  "subtitle": "Festool",
+  "description": null,
+  "thumbnail": "/products/rotex-exzenterschleifer-festool.webp",
+  "categories": [
+   {
+    "handle": "mieten-hand",
+    "name": "hand"
+   }
+  ],
+  "metadata": {
+   "kind": "rental",
+   "code": "M-07",
+   "group": "hand",
+   "note": "Treppen, Kanten, Restflächen",
+   "accessories": [
+    "klettscheibe-mit-loch",
+    "klettscheibe"
+   ],
+   "source_name": "Rotex Schleifer | Festo",
+   "rank": 7
+  },
+  "options": [],
+  "variants": [
+   {
+    "id": "variant_rent_4065",
+    "title": "Tagesmiete",
+    "sku": "M-07",
+    "options": {},
+    "calculated_price": {
+     "calculated_amount": 35.0,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 9,
+    "allow_backorder": false
+   }
+  ]
+ },
+ {
+  "id": "prod_rent_4064",
+  "handle": "tauchsaege-festool",
+  "title": "Tauchsäge",
+  "subtitle": "Festool",
+  "description": null,
+  "thumbnail": "/products/tauchsaege-festool.webp",
+  "categories": [
+   {
+    "handle": "mieten-saegen",
+    "name": "saegen"
+   }
+  ],
+  "metadata": {
+   "kind": "rental",
+   "code": "M-12",
+   "group": "saegen",
+   "note": "gerade Schnitte in verlegtem Boden",
+   "accessories": [],
+   "source_name": "Tauchsäge | Festo",
+   "rank": 12
+  },
+  "options": [],
+  "variants": [
+   {
+    "id": "variant_rent_4064",
+    "title": "Tagesmiete",
+    "sku": "M-12",
+    "options": {},
+    "calculated_price": {
+     "calculated_amount": 40.0,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 9,
+    "allow_backorder": false
+   }
+  ]
+ },
+ {
+  "id": "prod_rent_4063",
+  "handle": "einscheibenmaschine-tasky",
+  "title": "Einscheibenmaschine",
+  "subtitle": "Tasky",
+  "description": null,
+  "thumbnail": "/products/einscheibenmaschine-tasky.webp",
+  "categories": [
+   {
+    "handle": "mieten-boden",
+    "name": "boden"
+   }
+  ],
+  "metadata": {
+   "kind": "rental",
+   "code": "M-03",
+   "group": "boden",
+   "note": "Zwischenschliff, Ölen, Polieren",
+   "accessories": [
+    "schleifgitter",
+    "normalpad-406mm-beige",
+    "superpad-406mm-beige",
+    "multi-lochpad-410mm"
+   ],
+   "source_name": "Einteler Maschine | Tasky",
+   "rank": 3
+  },
+  "options": [],
+  "variants": [
+   {
+    "id": "variant_rent_4063",
+    "title": "Tagesmiete",
+    "sku": "M-03",
+    "options": {},
+    "calculated_price": {
+     "calculated_amount": 35.0,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 9,
+    "allow_backorder": false
+   }
+  ]
+ },
+ {
+  "id": "prod_rent_4062",
+  "handle": "absaugmobil-midi-festool",
+  "title": "Absaugmobil Midi",
+  "subtitle": "Festool",
+  "description": null,
+  "thumbnail": "/products/absaugmobil-midi-festool.webp",
+  "categories": [
+   {
+    "handle": "mieten-absaugen",
+    "name": "absaugen"
+   }
+  ],
+  "metadata": {
+   "kind": "rental",
+   "code": "M-06",
+   "group": "absaugen",
+   "note": "kompakt, für Handmaschinen",
+   "accessories": [],
+   "source_name": "Staubsauger Maschine | Festo Midi",
+   "rank": 6
+  },
+  "options": [],
+  "variants": [
+   {
+    "id": "variant_rent_4062",
+    "title": "Tagesmiete",
+    "sku": "M-06",
+    "options": {},
+    "calculated_price": {
+     "calculated_amount": 60.0,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 9,
+    "allow_backorder": false
+   }
+  ]
+ },
+ {
+  "id": "prod_rent_4061",
+  "handle": "absaugmobil-ctl-24-festool",
+  "title": "Absaugmobil CTL 24",
+  "subtitle": "Festool",
+  "description": null,
+  "thumbnail": "/products/absaugmobil-ctl-24-festool.webp",
+  "categories": [
+   {
+    "handle": "mieten-absaugen",
+    "name": "absaugen"
+   }
+  ],
+  "metadata": {
+   "kind": "rental",
+   "code": "M-04",
+   "group": "absaugen",
+   "note": "Staubklasse L · 24 l",
+   "accessories": [],
+   "source_name": "Staubsauger Maschine | Festo CTL 24",
+   "rank": 4
+  },
+  "options": [],
+  "variants": [
+   {
+    "id": "variant_rent_4061",
+    "title": "Tagesmiete",
+    "sku": "M-04",
+    "options": {},
+    "calculated_price": {
+     "calculated_amount": 35.0,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 9,
+    "allow_backorder": false
+   }
+  ]
+ },
+ {
+  "id": "prod_rent_4060",
+  "handle": "absaugmobil-ctl-36-festool",
+  "title": "Absaugmobil CTL 36",
+  "subtitle": "Festool",
+  "description": null,
+  "thumbnail": "/products/absaugmobil-ctl-36-festool.webp",
+  "categories": [
+   {
+    "handle": "mieten-absaugen",
+    "name": "absaugen"
+   }
+  ],
+  "metadata": {
+   "kind": "rental",
+   "code": "M-05",
+   "group": "absaugen",
+   "note": "Staubklasse L · 36 l",
+   "accessories": [],
+   "source_name": "Staubsauger Maschine | Festo CTL 36",
+   "rank": 5
+  },
+  "options": [],
+  "variants": [
+   {
+    "id": "variant_rent_4060",
+    "title": "Tagesmiete",
+    "sku": "M-05",
+    "options": {},
+    "calculated_price": {
+     "calculated_amount": 45.0,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 9,
+    "allow_backorder": false
+   }
+  ]
+ },
+ {
+  "id": "prod_rent_4059",
+  "handle": "randschleifer-unico-elan-panda",
+  "title": "Randschleifer",
+  "subtitle": "Unico / Elan / Panda",
+  "description": null,
+  "thumbnail": "/products/randschleifer-unico-elan-panda.webp",
+  "categories": [
+   {
+    "handle": "mieten-boden",
+    "name": "boden"
+   }
+  ],
+  "metadata": {
+   "kind": "rental",
+   "code": "M-02",
+   "group": "boden",
+   "note": "Ränder, Ecken, unter Heizkörpern",
+   "accessories": [
+    "bona-ceramic-o150-mit-loch",
+    "fiberscheibe-o150-mit-loch",
+    "bona-green-ceramic-o150"
+   ],
+   "source_name": "Randschleifermaschine | Unico / Elan / Panda",
+   "rank": 2
+  },
+  "options": [],
+  "variants": [
+   {
+    "id": "variant_rent_4059",
+    "title": "Tagesmiete",
+    "sku": "M-02",
+    "options": {},
+    "calculated_price": {
+     "calculated_amount": 25.0,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 9,
+    "allow_backorder": false
+   }
+  ]
+ },
+ {
+  "id": "prod_rent_2730",
+  "handle": "bandschleifmaschine-laegler-hummel-elf",
+  "title": "Bandschleifmaschine",
+  "subtitle": "Lägler Hummel / ELF",
+  "description": "Robuste Bandschleifmaschine für Parkett- und Dielensanierungen. Die Hummel überzeugt durch hohe Abtragsleistung, präzise Schleifergebnisse und eine stabile Bauweise. Mit 70 kg Maschinengewicht sorgt sie für gleichmäßigen Druck und ein sauberes Schleifbild, ideal für große Flächen.",
+  "thumbnail": "/products/bandschleifmaschine-laegler-hummel-elf.webp",
+  "categories": [
+   {
+    "handle": "mieten-boden",
+    "name": "boden"
+   }
+  ],
+  "metadata": {
+   "kind": "rental",
+   "code": "M-01",
+   "group": "boden",
+   "note": "70 kg · Parkett & Dielen",
+   "accessories": [
+    "schleifband-hummel-elf"
+   ],
+   "source_name": "Parkettschleifmaschine | Hummel / ELF",
+   "rank": 1
+  },
+  "options": [],
+  "variants": [
+   {
+    "id": "variant_rent_2730",
+    "title": "Tagesmiete",
+    "sku": "M-01",
+    "options": {},
+    "calculated_price": {
+     "calculated_amount": 25.0,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 9,
+    "allow_backorder": false
+   }
+  ]
+ },
+ {
+  "id": "prod_4722",
+  "handle": "bona-mix-fill-5l",
+  "title": "Bona Mix & Fill 5 l",
+  "subtitle": null,
+  "description": null,
+  "thumbnail": "/products/bona-mix-fill-5l.webp",
+  "categories": [
+   {
+    "handle": "lacke",
+    "name": "Lacke"
+   }
+  ],
+  "metadata": {
+   "kind": "sale",
+   "brand": "Bona",
+   "rank": 3017
+  },
+  "options": [],
+  "variants": [
+   {
+    "id": "variant_4722",
+    "title": "Standard",
+    "sku": null,
+    "options": {},
+    "calculated_price": {
+     "calculated_amount": 105.0,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   }
+  ]
+ },
+ {
+  "id": "prod_4720",
+  "handle": "bona-rotes-pad",
+  "title": "Bona rotes Pad",
+  "subtitle": null,
+  "description": null,
+  "thumbnail": "/products/bona-rotes-pad.webp",
+  "categories": [
+   {
+    "handle": "zubehoer",
+    "name": "Zubehör"
+   }
+  ],
+  "metadata": {
+   "kind": "sale",
+   "brand": "Bona",
+   "rank": 5018
+  },
+  "options": [],
+  "variants": [
+   {
+    "id": "variant_4720",
+    "title": "Standard",
+    "sku": null,
+    "options": {},
+    "calculated_price": {
+     "calculated_amount": 8.5,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   }
+  ]
+ },
+ {
+  "id": "prod_4719",
+  "handle": "bona-roller-fuer-oel",
+  "title": "Bona Roller für Öl",
+  "subtitle": null,
+  "description": null,
+  "thumbnail": "/products/bona-roller-fuer-oel.webp",
+  "categories": [
+   {
+    "handle": "zubehoer",
+    "name": "Zubehör"
+   }
+  ],
+  "metadata": {
+   "kind": "sale",
+   "brand": "Bona",
+   "rank": 5019
+  },
+  "options": [],
+  "variants": [
+   {
+    "id": "variant_4719",
+    "title": "Standard",
+    "sku": null,
+    "options": {},
+    "calculated_price": {
+     "calculated_amount": 24.0,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   }
+  ]
+ },
+ {
+  "id": "prod_4718",
+  "handle": "bona-hard-wax-oil",
+  "title": "Bona Hard Wax Oil",
+  "subtitle": null,
+  "description": null,
+  "thumbnail": "/products/bona-hard-wax-oil.webp",
+  "categories": [
+   {
+    "handle": "oele",
+    "name": "Öle"
+   }
+  ],
+  "metadata": {
+   "kind": "sale",
+   "brand": "Bona",
+   "rank": 4020
+  },
+  "options": [],
+  "variants": [
+   {
+    "id": "variant_4718",
+    "title": "Standard",
+    "sku": null,
+    "options": {},
+    "calculated_price": {
+     "calculated_amount": 185.0,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   }
+  ]
+ },
+ {
+  "id": "prod_4636",
+  "handle": "bona-pad-pet-sistem",
+  "title": "Bona Pad Pet System",
+  "subtitle": null,
+  "description": null,
+  "thumbnail": "/products/bona-pad-pet-sistem.webp",
+  "categories": [
+   {
+    "handle": "zubehoer",
+    "name": "Zubehör"
+   }
+  ],
+  "metadata": {
+   "kind": "sale",
+   "brand": "Bona",
+   "rank": 5521
+  },
+  "options": [],
+  "variants": [
+   {
+    "id": "variant_4636",
+    "title": "Standard",
+    "sku": null,
+    "options": {},
+    "calculated_price": {
+     "calculated_amount": 15.01,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   }
+  ]
+ },
+ {
+  "id": "prod_4635",
+  "handle": "bona-pad-microfiber",
+  "title": "Bona Pad Microfiber",
+  "subtitle": null,
+  "description": null,
+  "thumbnail": "/products/bona-pad-microfiber.webp",
+  "categories": [
+   {
+    "handle": "zubehoer",
+    "name": "Zubehör"
+   }
+  ],
+  "metadata": {
+   "kind": "sale",
+   "brand": "Bona",
+   "rank": 5522
+  },
+  "options": [],
+  "variants": [
+   {
+    "id": "variant_4635",
+    "title": "Standard",
+    "sku": null,
+    "options": {},
+    "calculated_price": {
+     "calculated_amount": 15.0,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   }
+  ]
+ },
+ {
+  "id": "prod_4634",
+  "handle": "bona-pad-reiniger",
+  "title": "Bona Pad reiniger",
+  "subtitle": null,
+  "description": null,
+  "thumbnail": "/products/bona-pad-reiniger.webp",
+  "categories": [
+   {
+    "handle": "zubehoer",
+    "name": "Zubehör"
+   }
+  ],
+  "metadata": {
+   "kind": "sale",
+   "brand": "Bona",
+   "rank": 5523
+  },
+  "options": [],
+  "variants": [
+   {
+    "id": "variant_4634",
+    "title": "Standard",
+    "sku": null,
+    "options": {},
+    "calculated_price": {
+     "calculated_amount": 15.0,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   }
+  ]
+ },
+ {
+  "id": "prod_bona-reiniger",
+  "handle": "bona-reiniger",
+  "title": "Bona Reiniger",
+  "subtitle": null,
+  "description": null,
+  "thumbnail": "/products/bona-reiniger-1050-ml-lacke.webp",
+  "categories": [
+   {
+    "handle": "zubehoer",
+    "name": "Zubehör"
+   }
+  ],
+  "metadata": {
+   "kind": "sale",
+   "brand": "Bona",
+   "rank": 5524
+  },
+  "options": [
+   {
+    "id": "opt_bona-reiniger_sorte",
+    "title": "Sorte",
+    "values": [
+     "Lack",
+     "Öl",
+     "Vinyl/Laminat",
+     "Pet"
+    ]
+   },
+   {
+    "id": "opt_bona-reiniger_gebinde",
+    "title": "Gebinde",
+    "values": [
+     "1050 ml",
+     "850 ml",
+     "1 l Spray",
+     "2,5 l",
+     "4 l"
+    ]
+   }
+  ],
+  "variants": [
+   {
+    "id": "variant_4633",
+    "title": "Lack / 1050 ml",
+    "sku": null,
+    "options": {
+     "Sorte": "Lack",
+     "Gebinde": "1050 ml"
+    },
+    "calculated_price": {
+     "calculated_amount": 20.0,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   },
+   {
+    "id": "variant_4632",
+    "title": "Öl / 850 ml",
+    "sku": null,
+    "options": {
+     "Sorte": "Öl",
+     "Gebinde": "850 ml"
+    },
+    "calculated_price": {
+     "calculated_amount": 20.0,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   },
+   {
+    "id": "variant_4631",
+    "title": "Vinyl/Laminat / 1050 ml",
+    "sku": null,
+    "options": {
+     "Sorte": "Vinyl/Laminat",
+     "Gebinde": "1050 ml"
+    },
+    "calculated_price": {
+     "calculated_amount": 20.0,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   },
+   {
+    "id": "variant_4630",
+    "title": "Pet / 1 l Spray",
+    "sku": null,
+    "options": {
+     "Sorte": "Pet",
+     "Gebinde": "1 l Spray"
+    },
+    "calculated_price": {
+     "calculated_amount": 20.0,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   },
+   {
+    "id": "variant_4629",
+    "title": "Pet / 2,5 l",
+    "sku": null,
+    "options": {
+     "Sorte": "Pet",
+     "Gebinde": "2,5 l"
+    },
+    "calculated_price": {
+     "calculated_amount": 35.0,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   },
+   {
+    "id": "variant_4628",
+    "title": "Öl / 2,5 l",
+    "sku": null,
+    "options": {
+     "Sorte": "Öl",
+     "Gebinde": "2,5 l"
+    },
+    "calculated_price": {
+     "calculated_amount": 35.0,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   },
+   {
+    "id": "variant_4627",
+    "title": "Vinyl/Laminat / 4 l",
+    "sku": null,
+    "options": {
+     "Sorte": "Vinyl/Laminat",
+     "Gebinde": "4 l"
+    },
+    "calculated_price": {
+     "calculated_amount": 50.0,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   },
+   {
+    "id": "variant_4626",
+    "title": "Lack / 4 l",
+    "sku": null,
+    "options": {
+     "Sorte": "Lack",
+     "Gebinde": "4 l"
+    },
+    "calculated_price": {
+     "calculated_amount": 50.0,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   }
+  ]
+ },
+ {
+  "id": "prod_bona-reiniger-kit",
+  "handle": "bona-reiniger-kit",
+  "title": "Bona Reiniger Kit",
+  "subtitle": null,
+  "description": null,
+  "thumbnail": "/products/bona-reiniger-kit-pet.webp",
+  "categories": [
+   {
+    "handle": "zubehoer",
+    "name": "Zubehör"
+   }
+  ],
+  "metadata": {
+   "kind": "sale",
+   "brand": "Bona",
+   "rank": 5525
+  },
+  "options": [
+   {
+    "id": "opt_bona-reiniger-kit_sorte",
+    "title": "Sorte",
+    "values": [
+     "Pet",
+     "Vinyl/Laminat",
+     "Öl",
+     "Lack"
+    ]
+   }
+  ],
+  "variants": [
+   {
+    "id": "variant_4625",
+    "title": "Pet",
+    "sku": null,
+    "options": {
+     "Sorte": "Pet"
+    },
+    "calculated_price": {
+     "calculated_amount": 40.0,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   },
+   {
+    "id": "variant_4624",
+    "title": "Vinyl/Laminat",
+    "sku": null,
+    "options": {
+     "Sorte": "Vinyl/Laminat"
+    },
+    "calculated_price": {
+     "calculated_amount": 60.0,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   },
+   {
+    "id": "variant_4623",
+    "title": "Öl",
+    "sku": null,
+    "options": {
+     "Sorte": "Öl"
+    },
+    "calculated_price": {
+     "calculated_amount": 60.0,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   },
+   {
+    "id": "variant_4622",
+    "title": "Lack",
+    "sku": null,
+    "options": {
+     "Sorte": "Lack"
+    },
+    "calculated_price": {
+     "calculated_amount": 60.0,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   }
+  ]
+ },
+ {
+  "id": "prod_4590",
+  "handle": "bona-ceramic-o150-mit-loch",
+  "title": "Bona Ceramic Ø 150 mit Loch",
+  "subtitle": null,
+  "description": null,
+  "thumbnail": "/products/bona-ceramic-o150-mit-loch.webp",
+  "categories": [
+   {
+    "handle": "schleifscheiben",
+    "name": "Schleifscheiben"
+   }
+  ],
+  "metadata": {
+   "kind": "sale",
+   "brand": "Bona",
+   "rank": 2026
+  },
+  "options": [
+   {
+    "id": "opt_4590_koernung",
+    "title": "Körnung",
+    "values": [
+     "36",
+     "50"
+    ]
+   }
+  ],
+  "variants": [
+   {
+    "id": "variant_4592",
+    "title": "50",
+    "sku": null,
+    "options": {
+     "Körnung": "50"
+    },
+    "calculated_price": {
+     "calculated_amount": 6.27,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   },
+   {
+    "id": "variant_4591",
+    "title": "36",
+    "sku": null,
+    "options": {
+     "Körnung": "36"
+    },
+    "calculated_price": {
+     "calculated_amount": 6.62,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   }
+  ]
+ },
+ {
+  "id": "prod_4588",
+  "handle": "bona-green-ceramic-o150",
+  "title": "Bona Green Ceramic Ø 150",
+  "subtitle": null,
+  "description": null,
+  "thumbnail": "/products/bona-green-ceramic-o150.webp",
+  "categories": [
+   {
+    "handle": "schleifscheiben",
+    "name": "Schleifscheiben"
+   }
+  ],
+  "metadata": {
+   "kind": "sale",
+   "brand": "Bona",
+   "rank": 2027
+  },
+  "options": [
+   {
+    "id": "opt_4588_koernung",
+    "title": "Körnung",
+    "values": [
+     "50",
+     "100"
+    ]
+   }
+  ],
+  "variants": [
+   {
+    "id": "variant_4702",
+    "title": "50",
+    "sku": null,
+    "options": {
+     "Körnung": "50"
+    },
+    "calculated_price": {
+     "calculated_amount": 3.03,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   },
+   {
+    "id": "variant_4589",
+    "title": "100",
+    "sku": null,
+    "options": {
+     "Körnung": "100"
+    },
+    "calculated_price": {
+     "calculated_amount": 2.82,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   }
+  ]
+ },
+ {
+  "id": "prod_4586",
+  "handle": "bonanet-ceramic-o150",
+  "title": "BonaNet Ceramic Ø 150",
+  "subtitle": null,
+  "description": null,
+  "thumbnail": "/products/bonanet-ceramic-o150.webp",
+  "categories": [
+   {
+    "handle": "schleifscheiben",
+    "name": "Schleifscheiben"
+   }
+  ],
+  "metadata": {
+   "kind": "sale",
+   "brand": "Bona",
+   "rank": 2028
+  },
+  "options": [
+   {
+    "id": "opt_4586_koernung",
+    "title": "Körnung",
+    "values": [
+     "120"
+    ]
+   }
+  ],
+  "variants": [
+   {
+    "id": "variant_4587",
+    "title": "120",
+    "sku": null,
+    "options": {
+     "Körnung": "120"
+    },
+    "calculated_price": {
+     "calculated_amount": 2.54,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   }
+  ]
+ },
+ {
+  "id": "prod_4520",
+  "handle": "bona-mega-evo",
+  "title": "Bona Mega Evo",
+  "subtitle": null,
+  "description": null,
+  "thumbnail": "/products/bona-mega-evo.webp",
+  "categories": [
+   {
+    "handle": "lacke",
+    "name": "Lacke"
+   }
+  ],
+  "metadata": {
+   "kind": "sale",
+   "brand": "Bona",
+   "rank": 3029
+  },
+  "options": [],
+  "variants": [
+   {
+    "id": "variant_4520",
+    "title": "Standard",
+    "sku": null,
+    "options": {},
+    "calculated_price": {
+     "calculated_amount": 172.55,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   }
+  ]
+ },
+ {
+  "id": "prod_4475",
+  "handle": "spachtel-120-mm",
+  "title": "Spachtel 120 mm",
+  "subtitle": null,
+  "description": null,
+  "thumbnail": "/products/spachtel-120-mm.webp",
+  "categories": [
+   {
+    "handle": "zubehoer",
+    "name": "Zubehör"
+   }
+  ],
+  "metadata": {
+   "kind": "sale",
+   "brand": null,
+   "rank": 5030
+  },
+  "options": [],
+  "variants": [
+   {
+    "id": "variant_4475",
+    "title": "Standard",
+    "sku": null,
+    "options": {},
+    "calculated_price": {
+     "calculated_amount": 6.19,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   }
+  ]
+ },
+ {
+  "id": "prod_4473",
+  "handle": "spachtel-140-mm",
+  "title": "Spachtel 140 mm",
+  "subtitle": null,
+  "description": null,
+  "thumbnail": "/products/spachtel-140-mm.webp",
+  "categories": [
+   {
+    "handle": "zubehoer",
+    "name": "Zubehör"
+   }
+  ],
+  "metadata": {
+   "kind": "sale",
+   "brand": null,
+   "rank": 5031
+  },
+  "options": [],
+  "variants": [
+   {
+    "id": "variant_4473",
+    "title": "Standard",
+    "sku": null,
+    "options": {},
+    "calculated_price": {
+     "calculated_amount": 7.74,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   }
+  ]
+ },
+ {
+  "id": "prod_4449",
+  "handle": "drahtrundbuerste",
+  "title": "Drahtrundbürste",
+  "subtitle": null,
+  "description": null,
+  "thumbnail": "/products/drahtrundbuerste.webp",
+  "categories": [
+   {
+    "handle": "zubehoer",
+    "name": "Zubehör"
+   }
+  ],
+  "metadata": {
+   "kind": "sale",
+   "brand": null,
+   "rank": 5032
+  },
+  "options": [],
+  "variants": [
+   {
+    "id": "variant_4449",
+    "title": "Standard",
+    "sku": null,
+    "options": {},
+    "calculated_price": {
+     "calculated_amount": 20.11,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   }
+  ]
+ },
+ {
+  "id": "prod_4447",
+  "handle": "handschleifer",
+  "title": "Handschleifer",
+  "subtitle": null,
+  "description": null,
+  "thumbnail": "/products/handschleifer.webp",
+  "categories": [
+   {
+    "handle": "zubehoer",
+    "name": "Zubehör"
+   }
+  ],
+  "metadata": {
+   "kind": "sale",
+   "brand": null,
+   "rank": 5033
+  },
+  "options": [],
+  "variants": [
+   {
+    "id": "variant_4447",
+    "title": "Standard",
+    "sku": null,
+    "options": {},
+    "calculated_price": {
+     "calculated_amount": 8.27,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   }
+  ]
+ },
+ {
+  "id": "prod_4445",
+  "handle": "entlueftungsrolle",
+  "title": "Entlüftungsrolle",
+  "subtitle": null,
+  "description": null,
+  "thumbnail": "/products/entlueftungsrolle.webp",
+  "categories": [
+   {
+    "handle": "zubehoer",
+    "name": "Zubehör"
+   }
+  ],
+  "metadata": {
+   "kind": "sale",
+   "brand": null,
+   "rank": 5034
+  },
+  "options": [],
+  "variants": [
+   {
+    "id": "variant_4445",
+    "title": "Standard",
+    "sku": null,
+    "options": {},
+    "calculated_price": {
+     "calculated_amount": 25.59,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   }
+  ]
+ },
+ {
+  "id": "prod_4443",
+  "handle": "doppelarmbuegel-mit-lackierwalze",
+  "title": "Doppelarmbügel mit Lackierwalze",
+  "subtitle": null,
+  "description": null,
+  "thumbnail": "/products/doppelarmbuegel-mit-lackierwalze.webp",
+  "categories": [
+   {
+    "handle": "zubehoer",
+    "name": "Zubehör"
+   }
+  ],
+  "metadata": {
+   "kind": "sale",
+   "brand": null,
+   "rank": 5035
+  },
+  "options": [],
+  "variants": [
+   {
+    "id": "variant_4443",
+    "title": "Standard",
+    "sku": null,
+    "options": {},
+    "calculated_price": {
+     "calculated_amount": 55.87,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   }
+  ]
+ },
+ {
+  "id": "prod_4441",
+  "handle": "lux-schrauberbit-satz",
+  "title": "LUX – Schrauberbit – Satz",
+  "subtitle": null,
+  "description": null,
+  "thumbnail": "/products/lux-schrauberbit-satz.webp",
+  "categories": [
+   {
+    "handle": "zubehoer",
+    "name": "Zubehör"
+   }
+  ],
+  "metadata": {
+   "kind": "sale",
+   "brand": null,
+   "rank": 5536
+  },
+  "options": [],
+  "variants": [
+   {
+    "id": "variant_4441",
+    "title": "Standard",
+    "sku": null,
+    "options": {},
+    "calculated_price": {
+     "calculated_amount": 20.77,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   }
+  ]
+ },
+ {
+  "id": "prod_4439",
+  "handle": "bosch-schrauberbit-satz",
+  "title": "Bosch Schrauberbit – Satz",
+  "subtitle": null,
+  "description": null,
+  "thumbnail": "/products/bosch-schrauberbit-satz.webp",
+  "categories": [
+   {
+    "handle": "zubehoer",
+    "name": "Zubehör"
+   }
+  ],
+  "metadata": {
+   "kind": "sale",
+   "brand": null,
+   "rank": 5537
+  },
+  "options": [],
+  "variants": [
+   {
+    "id": "variant_4439",
+    "title": "Standard",
+    "sku": null,
+    "options": {},
+    "calculated_price": {
+     "calculated_amount": 43.51,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   }
+  ]
+ },
+ {
+  "id": "prod_4437",
+  "handle": "makita-schrauberbit-satz",
+  "title": "Makita Schrauberbit – Satz",
+  "subtitle": null,
+  "description": null,
+  "thumbnail": "/products/makita-schrauberbit-satz.webp",
+  "categories": [
+   {
+    "handle": "zubehoer",
+    "name": "Zubehör"
+   }
+  ],
+  "metadata": {
+   "kind": "sale",
+   "brand": null,
+   "rank": 5538
+  },
+  "options": [],
+  "variants": [
+   {
+    "id": "variant_4437",
+    "title": "Standard",
+    "sku": null,
+    "options": {},
+    "calculated_price": {
+     "calculated_amount": 42.65,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   }
+  ]
+ },
+ {
+  "id": "prod_4436",
+  "handle": "spachtel-30-mm",
+  "title": "Spachtel 30 mm",
+  "subtitle": null,
+  "description": null,
+  "thumbnail": "/products/spachtel-30-mm.webp",
+  "categories": [
+   {
+    "handle": "zubehoer",
+    "name": "Zubehör"
+   }
+  ],
+  "metadata": {
+   "kind": "sale",
+   "brand": null,
+   "rank": 5039
+  },
+  "options": [],
+  "variants": [
+   {
+    "id": "variant_4436",
+    "title": "Standard",
+    "sku": null,
+    "options": {},
+    "calculated_price": {
+     "calculated_amount": 2.38,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   }
+  ]
+ },
+ {
+  "id": "prod_4435",
+  "handle": "spachtel-50-mm",
+  "title": "Spachtel 50 mm",
+  "subtitle": null,
+  "description": null,
+  "thumbnail": "/products/spachtel-50-mm.webp",
+  "categories": [
+   {
+    "handle": "zubehoer",
+    "name": "Zubehör"
+   }
+  ],
+  "metadata": {
+   "kind": "sale",
+   "brand": null,
+   "rank": 5040
+  },
+  "options": [],
+  "variants": [
+   {
+    "id": "variant_4435",
+    "title": "Standard",
+    "sku": null,
+    "options": {},
+    "calculated_price": {
+     "calculated_amount": 3.57,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   }
+  ]
+ },
+ {
+  "id": "prod_4401",
+  "handle": "gesichtsschirm-mit-stirnschutz-350-x-205-mm",
+  "title": "Gesichtsschirm mit Stirnschutz 350 x 205 mm",
+  "subtitle": null,
+  "description": null,
+  "thumbnail": "/products/gesichtsschirm-mit-stirnschutz-350-x-205-mm.webp",
+  "categories": [
+   {
+    "handle": "zubehoer",
+    "name": "Zubehör"
+   }
+  ],
+  "metadata": {
+   "kind": "sale",
+   "brand": null,
+   "rank": 5541
+  },
+  "options": [],
+  "variants": [
+   {
+    "id": "variant_4401",
+    "title": "Standard",
+    "sku": null,
+    "options": {},
+    "calculated_price": {
+     "calculated_amount": 13.69,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   }
+  ]
+ },
+ {
+  "id": "prod_4400",
+  "handle": "spachtel-40-mm",
+  "title": "Spachtel 40 mm",
+  "subtitle": null,
+  "description": null,
+  "thumbnail": "/products/spachtel-40-mm.webp",
+  "categories": [
+   {
+    "handle": "zubehoer",
+    "name": "Zubehör"
+   }
+  ],
+  "metadata": {
+   "kind": "sale",
+   "brand": null,
+   "rank": 5042
+  },
+  "options": [],
+  "variants": [
+   {
+    "id": "variant_4400",
+    "title": "Standard",
+    "sku": null,
+    "options": {},
+    "calculated_price": {
+     "calculated_amount": 2.68,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   }
+  ]
+ },
+ {
+  "id": "prod_4399",
+  "handle": "malerspachtel-80-mm",
+  "title": "Malerspachtel 80 mm",
+  "subtitle": null,
+  "description": null,
+  "thumbnail": "/products/malerspachtel-80-mm.webp",
+  "categories": [
+   {
+    "handle": "zubehoer",
+    "name": "Zubehör"
+   }
+  ],
+  "metadata": {
+   "kind": "sale",
+   "brand": null,
+   "rank": 5043
+  },
+  "options": [],
+  "variants": [
+   {
+    "id": "variant_4399",
+    "title": "Standard",
+    "sku": null,
+    "options": {},
+    "calculated_price": {
+     "calculated_amount": 4.64,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   }
+  ]
+ },
+ {
+  "id": "prod_4398",
+  "handle": "farbwalze-doppelblaufaden-25mm",
+  "title": "Farbwalze doppelblaufaden 25mm",
+  "subtitle": null,
+  "description": null,
+  "thumbnail": "/products/farbwalze-doppelblaufaden-25mm.webp",
+  "categories": [
+   {
+    "handle": "zubehoer",
+    "name": "Zubehör"
+   }
+  ],
+  "metadata": {
+   "kind": "sale",
+   "brand": null,
+   "rank": 5044
+  },
+  "options": [],
+  "variants": [
+   {
+    "id": "variant_4398",
+    "title": "Standard",
+    "sku": null,
+    "options": {},
+    "calculated_price": {
+     "calculated_amount": 5.4,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   }
+  ]
+ },
+ {
+  "id": "prod_4397",
+  "handle": "wasserschieber-zellkautschuk-45-mm",
+  "title": "Wasserschieber Zellkautschuk 45 mm",
+  "subtitle": null,
+  "description": null,
+  "thumbnail": "/products/wasserschieber-zellkautschuk-45-mm.webp",
+  "categories": [
+   {
+    "handle": "zubehoer",
+    "name": "Zubehör"
+   }
+  ],
+  "metadata": {
+   "kind": "sale",
+   "brand": null,
+   "rank": 5045
+  },
+  "options": [],
+  "variants": [
+   {
+    "id": "variant_4397",
+    "title": "Standard",
+    "sku": null,
+    "options": {},
+    "calculated_price": {
+     "calculated_amount": 5.3,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   }
+  ]
+ },
+ {
+  "id": "prod_4396",
+  "handle": "gehoerschutzkapsel-blau-mit-kunstoffbuegel",
+  "title": "Gehörschutzkapsel blau mit Kunststoffbügel",
+  "subtitle": null,
+  "description": null,
+  "thumbnail": "/products/gehoerschutzkapsel-blau-mit-kunstoffbuegel.webp",
+  "categories": [
+   {
+    "handle": "zubehoer",
+    "name": "Zubehör"
+   }
+  ],
+  "metadata": {
+   "kind": "sale",
+   "brand": null,
+   "rank": 5546
+  },
+  "options": [],
+  "variants": [
+   {
+    "id": "variant_4396",
+    "title": "Standard",
+    "sku": null,
+    "options": {},
+    "calculated_price": {
+     "calculated_amount": 11.07,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   }
+  ]
+ },
+ {
+  "id": "prod_4395",
+  "handle": "enviro-heizkoerperpinsel-1-25mm-kx3-silverline-grosse-75mm",
+  "title": "ENVIRO Heizkörperpinsel 1″ 25mm kx3 Silverline Große 75mm",
+  "subtitle": null,
+  "description": null,
+  "thumbnail": "/products/enviro-heizkoerperpinsel-1-25mm-kx3-silverline-grosse-75mm.webp",
+  "categories": [
+   {
+    "handle": "zubehoer",
+    "name": "Zubehör"
+   }
+  ],
+  "metadata": {
+   "kind": "sale",
+   "brand": null,
+   "rank": 5047
+  },
+  "options": [],
+  "variants": [
+   {
+    "id": "variant_4395",
+    "title": "Standard",
+    "sku": null,
+    "options": {},
+    "calculated_price": {
+     "calculated_amount": 7.0,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   }
+  ]
+ },
+ {
+  "id": "prod_4394",
+  "handle": "breaker-schutzbrille-tector",
+  "title": "BREAKER Schutzbrille Tector",
+  "subtitle": null,
+  "description": null,
+  "thumbnail": "/products/breaker-schutzbrille-tector.webp",
+  "categories": [
+   {
+    "handle": "zubehoer",
+    "name": "Zubehör"
+   }
+  ],
+  "metadata": {
+   "kind": "sale",
+   "brand": null,
+   "rank": 5548
+  },
+  "options": [],
+  "variants": [
+   {
+    "id": "variant_4394",
+    "title": "Standard",
+    "sku": null,
+    "options": {},
+    "calculated_price": {
+     "calculated_amount": 7.38,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   }
+  ]
+ },
+ {
+  "id": "prod_4393",
+  "handle": "glaettekelle-280-x-130-mm",
+  "title": "Glättekelle 280 x 130 mm",
+  "subtitle": null,
+  "description": null,
+  "thumbnail": "/products/glaettekelle-280-x-130-mm.webp",
+  "categories": [
+   {
+    "handle": "zubehoer",
+    "name": "Zubehör"
+   }
+  ],
+  "metadata": {
+   "kind": "sale",
+   "brand": null,
+   "rank": 5049
+  },
+  "options": [],
+  "variants": [
+   {
+    "id": "variant_4393",
+    "title": "Standard",
+    "sku": null,
+    "options": {},
+    "calculated_price": {
+     "calculated_amount": 8.57,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   }
+  ]
+ },
+ {
+  "id": "prod_4392",
+  "handle": "besucher-schutzbrille-modell",
+  "title": "Besucher – Schutzbrille Modell",
+  "subtitle": null,
+  "description": null,
+  "thumbnail": "/products/besucher-schutzbrille-modell.webp",
+  "categories": [
+   {
+    "handle": "zubehoer",
+    "name": "Zubehör"
+   }
+  ],
+  "metadata": {
+   "kind": "sale",
+   "brand": null,
+   "rank": 5550
+  },
+  "options": [],
+  "variants": [
+   {
+    "id": "variant_4392",
+    "title": "Standard",
+    "sku": null,
+    "options": {},
+    "calculated_price": {
+     "calculated_amount": 4.17,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   }
+  ]
+ },
+ {
+  "id": "prod_4376",
+  "handle": "bona-sc-roller-10-cm",
+  "title": "Bona SC roller 10 cm",
+  "subtitle": null,
+  "description": null,
+  "thumbnail": "/products/bona-sc-roller-10-cm.webp",
+  "categories": [
+   {
+    "handle": "zubehoer",
+    "name": "Zubehör"
+   }
+  ],
+  "metadata": {
+   "kind": "sale",
+   "brand": "Bona",
+   "rank": 5051
+  },
+  "options": [],
+  "variants": [
+   {
+    "id": "variant_4376",
+    "title": "Standard",
+    "sku": null,
+    "options": {},
+    "calculated_price": {
+     "calculated_amount": 1.4,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   }
+  ]
+ },
+ {
+  "id": "prod_4374",
+  "handle": "bona-wasserlackrolle",
+  "title": "Bona Wasserlackrolle",
+  "subtitle": null,
+  "description": null,
+  "thumbnail": "/products/bona-wasserlackrolle.webp",
+  "categories": [
+   {
+    "handle": "zubehoer",
+    "name": "Zubehör"
+   }
+  ],
+  "metadata": {
+   "kind": "sale",
+   "brand": "Bona",
+   "rank": 5052
+  },
+  "options": [],
+  "variants": [
+   {
+    "id": "variant_4374",
+    "title": "Standard",
+    "sku": null,
+    "options": {},
+    "calculated_price": {
+     "calculated_amount": 23.34,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   }
+  ]
+ },
+ {
+  "id": "prod_bona-craft-oil-2k",
+  "handle": "bona-craft-oil-2k",
+  "title": "Bona Craft Oil 2K",
+  "subtitle": null,
+  "description": null,
+  "thumbnail": "/products/bona-craft-oil-2k-1-25l-neutral.webp",
+  "categories": [
+   {
+    "handle": "oele",
+    "name": "Öle"
+   }
+  ],
+  "metadata": {
+   "kind": "sale",
+   "brand": "Bona",
+   "rank": 4053
+  },
+  "options": [
+   {
+    "id": "opt_bona-craft-oil-2k_farbton",
+    "title": "Farbton",
+    "values": [
+     "Provincial",
+     "Driftwood",
+     "Neutral",
+     "Misty",
+     "Invisible",
+     "Umbra",
+     "Ash",
+     "Graphite",
+     "Clay",
+     "Frost",
+     "Sand",
+     "Light Grey"
+    ]
+   },
+   {
+    "id": "opt_bona-craft-oil-2k_gebinde",
+    "title": "Gebinde",
+    "values": [
+     "400 ml",
+     "1,25 l"
+    ]
+   }
+  ],
+  "variants": [
+   {
+    "id": "variant_4373",
+    "title": "Provincial / 400 ml",
+    "sku": null,
+    "options": {
+     "Farbton": "Provincial",
+     "Gebinde": "400 ml"
+    },
+    "calculated_price": {
+     "calculated_amount": 43.05,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   },
+   {
+    "id": "variant_4372",
+    "title": "Driftwood / 400 ml",
+    "sku": null,
+    "options": {
+     "Farbton": "Driftwood",
+     "Gebinde": "400 ml"
+    },
+    "calculated_price": {
+     "calculated_amount": 43.05,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 0,
+    "allow_backorder": false
+   },
+   {
+    "id": "variant_4371",
+    "title": "Neutral / 400 ml",
+    "sku": null,
+    "options": {
+     "Farbton": "Neutral",
+     "Gebinde": "400 ml"
+    },
+    "calculated_price": {
+     "calculated_amount": 43.05,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 0,
+    "allow_backorder": false
+   },
+   {
+    "id": "variant_4370",
+    "title": "Misty / 400 ml",
+    "sku": null,
+    "options": {
+     "Farbton": "Misty",
+     "Gebinde": "400 ml"
+    },
+    "calculated_price": {
+     "calculated_amount": 43.05,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   },
+   {
+    "id": "variant_4369",
+    "title": "Invisible / 400 ml",
+    "sku": null,
+    "options": {
+     "Farbton": "Invisible",
+     "Gebinde": "400 ml"
+    },
+    "calculated_price": {
+     "calculated_amount": 43.05,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   },
+   {
+    "id": "variant_4367",
+    "title": "Umbra / 400 ml",
+    "sku": null,
+    "options": {
+     "Farbton": "Umbra",
+     "Gebinde": "400 ml"
+    },
+    "calculated_price": {
+     "calculated_amount": 43.05,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   },
+   {
+    "id": "variant_4366",
+    "title": "Ash / 400 ml",
+    "sku": null,
+    "options": {
+     "Farbton": "Ash",
+     "Gebinde": "400 ml"
+    },
+    "calculated_price": {
+     "calculated_amount": 43.05,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   },
+   {
+    "id": "variant_4365",
+    "title": "Graphite / 400 ml",
+    "sku": null,
+    "options": {
+     "Farbton": "Graphite",
+     "Gebinde": "400 ml"
+    },
+    "calculated_price": {
+     "calculated_amount": 43.05,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   },
+   {
+    "id": "variant_4364",
+    "title": "Clay / 400 ml",
+    "sku": null,
+    "options": {
+     "Farbton": "Clay",
+     "Gebinde": "400 ml"
+    },
+    "calculated_price": {
+     "calculated_amount": 43.05,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   },
+   {
+    "id": "variant_4363",
+    "title": "Frost / 400 ml",
+    "sku": null,
+    "options": {
+     "Farbton": "Frost",
+     "Gebinde": "400 ml"
+    },
+    "calculated_price": {
+     "calculated_amount": 43.05,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   },
+   {
+    "id": "variant_4362",
+    "title": "Frost / 1,25 l",
+    "sku": null,
+    "options": {
+     "Farbton": "Frost",
+     "Gebinde": "1,25 l"
+    },
+    "calculated_price": {
+     "calculated_amount": 124.71,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   },
+   {
+    "id": "variant_4353",
+    "title": "Provincial / 1,25 l",
+    "sku": null,
+    "options": {
+     "Farbton": "Provincial",
+     "Gebinde": "1,25 l"
+    },
+    "calculated_price": {
+     "calculated_amount": 124.71,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   },
+   {
+    "id": "variant_4352",
+    "title": "Driftwood / 1,25 l",
+    "sku": null,
+    "options": {
+     "Farbton": "Driftwood",
+     "Gebinde": "1,25 l"
+    },
+    "calculated_price": {
+     "calculated_amount": 124.71,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   },
+   {
+    "id": "variant_4351",
+    "title": "Misty / 1,25 l",
+    "sku": null,
+    "options": {
+     "Farbton": "Misty",
+     "Gebinde": "1,25 l"
+    },
+    "calculated_price": {
+     "calculated_amount": 124.71,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   },
+   {
+    "id": "variant_4350",
+    "title": "Sand / 1,25 l",
+    "sku": null,
+    "options": {
+     "Farbton": "Sand",
+     "Gebinde": "1,25 l"
+    },
+    "calculated_price": {
+     "calculated_amount": 124.71,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   },
+   {
+    "id": "variant_4348",
+    "title": "Light Grey / 1,25 l",
+    "sku": null,
+    "options": {
+     "Farbton": "Light Grey",
+     "Gebinde": "1,25 l"
+    },
+    "calculated_price": {
+     "calculated_amount": 124.71,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   },
+   {
+    "id": "variant_4346",
+    "title": "Invisible / 1,25 l",
+    "sku": null,
+    "options": {
+     "Farbton": "Invisible",
+     "Gebinde": "1,25 l"
+    },
+    "calculated_price": {
+     "calculated_amount": 124.71,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   },
+   {
+    "id": "variant_4345",
+    "title": "Umbra / 1,25 l",
+    "sku": null,
+    "options": {
+     "Farbton": "Umbra",
+     "Gebinde": "1,25 l"
+    },
+    "calculated_price": {
+     "calculated_amount": 124.71,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   },
+   {
+    "id": "variant_4343",
+    "title": "Ash / 1,25 l",
+    "sku": null,
+    "options": {
+     "Farbton": "Ash",
+     "Gebinde": "1,25 l"
+    },
+    "calculated_price": {
+     "calculated_amount": 124.71,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   },
+   {
+    "id": "variant_4341",
+    "title": "Graphite / 1,25 l",
+    "sku": null,
+    "options": {
+     "Farbton": "Graphite",
+     "Gebinde": "1,25 l"
+    },
+    "calculated_price": {
+     "calculated_amount": 124.71,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   },
+   {
+    "id": "variant_4339",
+    "title": "Clay / 1,25 l",
+    "sku": null,
+    "options": {
+     "Farbton": "Clay",
+     "Gebinde": "1,25 l"
+    },
+    "calculated_price": {
+     "calculated_amount": 124.71,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   },
+   {
+    "id": "variant_4332",
+    "title": "Neutral / 1,25 l",
+    "sku": null,
+    "options": {
+     "Farbton": "Neutral",
+     "Gebinde": "1,25 l"
+    },
+    "calculated_price": {
+     "calculated_amount": 124.71,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   }
+  ]
+ },
+ {
+  "id": "prod_4329",
+  "handle": "bona-classic-ux-5l",
+  "title": "Bona Classic UX 5 l",
+  "subtitle": null,
+  "description": null,
+  "thumbnail": "/products/bona-classic-ux-5l.webp",
+  "categories": [
+   {
+    "handle": "lacke",
+    "name": "Lacke"
+   }
+  ],
+  "metadata": {
+   "kind": "sale",
+   "brand": "Bona",
+   "rank": 3054
+  },
+  "options": [],
+  "variants": [
+   {
+    "id": "variant_4329",
+    "title": "Standard",
+    "sku": null,
+    "options": {},
+    "calculated_price": {
+     "calculated_amount": 130.9,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   }
+  ]
+ },
+ {
+  "id": "prod_4326",
+  "handle": "bona-traffic-hd-4-95l",
+  "title": "Bona Traffic HD 4,95 l",
+  "subtitle": null,
+  "description": null,
+  "thumbnail": "/products/bona-traffic-hd-4-95l.webp",
+  "categories": [
+   {
+    "handle": "lacke",
+    "name": "Lacke"
+   }
+  ],
+  "metadata": {
+   "kind": "sale",
+   "brand": "Bona",
+   "rank": 3055
+  },
+  "options": [],
+  "variants": [
+   {
+    "id": "variant_4326",
+    "title": "Standard",
+    "sku": null,
+    "options": {},
+    "calculated_price": {
+     "calculated_amount": 252.93,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   }
+  ]
+ },
+ {
+  "id": "prod_4324",
+  "handle": "bona-domo-sm-5l",
+  "title": "Bona Domo seidenmatt, 5 l",
+  "subtitle": null,
+  "description": null,
+  "thumbnail": "/products/bona-domo-sm-5l.webp",
+  "categories": [
+   {
+    "handle": "lacke",
+    "name": "Lacke"
+   }
+  ],
+  "metadata": {
+   "kind": "sale",
+   "brand": "Bona",
+   "rank": 3056
+  },
+  "options": [],
+  "variants": [
+   {
+    "id": "variant_4324",
+    "title": "Standard",
+    "sku": null,
+    "options": {},
+    "calculated_price": {
+     "calculated_amount": 92.52,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   }
+  ]
+ },
+ {
+  "id": "prod_4322",
+  "handle": "bona-domo-matt-5l",
+  "title": "Bona Domo matt, 5 l",
+  "subtitle": null,
+  "description": null,
+  "thumbnail": "/products/bona-domo-matt-5l.webp",
+  "categories": [
+   {
+    "handle": "lacke",
+    "name": "Lacke"
+   }
+  ],
+  "metadata": {
+   "kind": "sale",
+   "brand": "Bona",
+   "rank": 3057
+  },
+  "options": [],
+  "variants": [
+   {
+    "id": "variant_4322",
+    "title": "Standard",
+    "sku": null,
+    "options": {},
+    "calculated_price": {
+     "calculated_amount": 92.52,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   }
+  ]
+ },
+ {
+  "id": "prod_4303",
+  "handle": "lackeimer",
+  "title": "Lackeimer",
+  "subtitle": null,
+  "description": null,
+  "thumbnail": "/products/lackeimer.webp",
+  "categories": [
+   {
+    "handle": "zubehoer",
+    "name": "Zubehör"
+   }
+  ],
+  "metadata": {
+   "kind": "sale",
+   "brand": null,
+   "rank": 5058
+  },
+  "options": [],
+  "variants": [
+   {
+    "id": "variant_4303",
+    "title": "Standard",
+    "sku": null,
+    "options": {},
+    "calculated_price": {
+     "calculated_amount": 12.0,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 0,
+    "allow_backorder": false
+   }
+  ]
+ },
+ {
+  "id": "prod_4295",
+  "handle": "fiberscheibe-o150-mit-loch",
+  "title": "Fiberscheibe Ø 150 mit Loch",
+  "subtitle": null,
+  "description": null,
+  "thumbnail": "/products/fiberscheibe-o150-mit-loch.webp",
+  "categories": [
+   {
+    "handle": "schleifscheiben",
+    "name": "Schleifscheiben"
+   }
+  ],
+  "metadata": {
+   "kind": "sale",
+   "brand": null,
+   "rank": 2059
+  },
+  "options": [
+   {
+    "id": "opt_4295_groesse",
+    "title": "Größe",
+    "values": [
+     "Ø 150 mm"
+    ]
+   },
+   {
+    "id": "opt_4295_koernung",
+    "title": "Körnung",
+    "values": [
+     "24",
+     "40",
+     "80",
+     "120"
+    ]
+   }
+  ],
+  "variants": [
+   {
+    "id": "variant_4301",
+    "title": "Ø 150 mm / 120",
+    "sku": null,
+    "options": {
+     "Größe": "Ø 150 mm",
+     "Körnung": "120"
+    },
+    "calculated_price": {
+     "calculated_amount": 0.6,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   },
+   {
+    "id": "variant_4300",
+    "title": "Ø 150 mm / 80",
+    "sku": null,
+    "options": {
+     "Größe": "Ø 150 mm",
+     "Körnung": "80"
+    },
+    "calculated_price": {
+     "calculated_amount": 0.68,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   },
+   {
+    "id": "variant_4298",
+    "title": "Ø 150 mm / 40",
+    "sku": null,
+    "options": {
+     "Größe": "Ø 150 mm",
+     "Körnung": "40"
+    },
+    "calculated_price": {
+     "calculated_amount": 0.8,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   },
+   {
+    "id": "variant_4297",
+    "title": "Ø 150 mm / 24",
+    "sku": null,
+    "options": {
+     "Größe": "Ø 150 mm",
+     "Körnung": "24"
+    },
+    "calculated_price": {
+     "calculated_amount": 0.99,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   },
+   {
+    "id": "variant_4296",
+    "title": "Ø 150 mm",
+    "sku": null,
+    "options": {
+     "Größe": "Ø 150 mm"
+    },
+    "calculated_price": {
+     "calculated_amount": 1.2,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   }
+  ]
+ },
+ {
+  "id": "prod_4288",
+  "handle": "klettscheibe-mit-loch",
+  "title": "Klettscheibe mit Loch",
+  "subtitle": null,
+  "description": null,
+  "thumbnail": "/products/klettscheibe-mit-loch.webp",
+  "categories": [
+   {
+    "handle": "schleifscheiben",
+    "name": "Schleifscheiben"
+   }
+  ],
+  "metadata": {
+   "kind": "sale",
+   "brand": null,
+   "rank": 2060
+  },
+  "options": [
+   {
+    "id": "opt_4288_groesse",
+    "title": "Größe",
+    "values": [
+     "Ø 150 mm"
+    ]
+   },
+   {
+    "id": "opt_4288_koernung",
+    "title": "Körnung",
+    "values": [
+     "16",
+     "24",
+     "40",
+     "60",
+     "80",
+     "100",
+     "120"
+    ]
+   }
+  ],
+  "variants": [
+   {
+    "id": "variant_4594",
+    "title": "Ø 150 mm / 16",
+    "sku": null,
+    "options": {
+     "Größe": "Ø 150 mm",
+     "Körnung": "16"
+    },
+    "calculated_price": {
+     "calculated_amount": 1.5,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   },
+   {
+    "id": "variant_4294",
+    "title": "Ø 150 mm / 120",
+    "sku": null,
+    "options": {
+     "Größe": "Ø 150 mm",
+     "Körnung": "120"
+    },
+    "calculated_price": {
+     "calculated_amount": 1.2,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   },
+   {
+    "id": "variant_4293",
+    "title": "Ø 150 mm / 100",
+    "sku": null,
+    "options": {
+     "Größe": "Ø 150 mm",
+     "Körnung": "100"
+    },
+    "calculated_price": {
+     "calculated_amount": 0.56,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   },
+   {
+    "id": "variant_4292",
+    "title": "Ø 150 mm / 80",
+    "sku": null,
+    "options": {
+     "Größe": "Ø 150 mm",
+     "Körnung": "80"
+    },
+    "calculated_price": {
+     "calculated_amount": 0.8,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   },
+   {
+    "id": "variant_4291",
+    "title": "Ø 150 mm / 40",
+    "sku": null,
+    "options": {
+     "Größe": "Ø 150 mm",
+     "Körnung": "40"
+    },
+    "calculated_price": {
+     "calculated_amount": 1.0,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   },
+   {
+    "id": "variant_4290",
+    "title": "Ø 150 mm / 60",
+    "sku": null,
+    "options": {
+     "Größe": "Ø 150 mm",
+     "Körnung": "60"
+    },
+    "calculated_price": {
+     "calculated_amount": 1.0,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   },
+   {
+    "id": "variant_4289",
+    "title": "Ø 150 mm / 24",
+    "sku": null,
+    "options": {
+     "Größe": "Ø 150 mm",
+     "Körnung": "24"
+    },
+    "calculated_price": {
+     "calculated_amount": 1.2,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   }
+  ]
+ },
+ {
+  "id": "prod_4266",
+  "handle": "tapetenschaber",
+  "title": "Tapetenschaber",
+  "subtitle": null,
+  "description": null,
+  "thumbnail": "/products/tapetenschaber.webp",
+  "categories": [
+   {
+    "handle": "zubehoer",
+    "name": "Zubehör"
+   }
+  ],
+  "metadata": {
+   "kind": "sale",
+   "brand": null,
+   "rank": 5061
+  },
+  "options": [],
+  "variants": [
+   {
+    "id": "variant_4266",
+    "title": "Standard",
+    "sku": null,
+    "options": {},
+    "calculated_price": {
+     "calculated_amount": 14.49,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   }
+  ]
+ },
+ {
+  "id": "prod_4255",
+  "handle": "cutter",
+  "title": "Cutter",
+  "subtitle": null,
+  "description": null,
+  "thumbnail": "/products/cutter.webp",
+  "categories": [
+   {
+    "handle": "zubehoer",
+    "name": "Zubehör"
+   }
+  ],
+  "metadata": {
+   "kind": "sale",
+   "brand": null,
+   "rank": 5562
+  },
+  "options": [],
+  "variants": [
+   {
+    "id": "variant_4255",
+    "title": "Standard",
+    "sku": null,
+    "options": {},
+    "calculated_price": {
+     "calculated_amount": 1.2,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   }
+  ]
+ },
+ {
+  "id": "prod_4235",
+  "handle": "avalon-naturoel-siegel-2-5l",
+  "title": "Avalon Naturöl Siegel 2,5 l",
+  "subtitle": null,
+  "description": null,
+  "thumbnail": "/products/avalon-naturoel-siegel-2-5l.webp",
+  "categories": [
+   {
+    "handle": "oele",
+    "name": "Öle"
+   }
+  ],
+  "metadata": {
+   "kind": "sale",
+   "brand": null,
+   "rank": 4063
+  },
+  "options": [],
+  "variants": [
+   {
+    "id": "variant_4235",
+    "title": "Standard",
+    "sku": null,
+    "options": {},
+    "calculated_price": {
+     "calculated_amount": 94.81,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   }
+  ]
+ },
+ {
+  "id": "prod_4232",
+  "handle": "schutzmaske-ffp3",
+  "title": "Schutzmaske FFP3",
+  "subtitle": null,
+  "description": null,
+  "thumbnail": "/products/schutzmaske-ffp3.webp",
+  "categories": [
+   {
+    "handle": "zubehoer",
+    "name": "Zubehör"
+   }
+  ],
+  "metadata": {
+   "kind": "sale",
+   "brand": null,
+   "rank": 5564
+  },
+  "options": [],
+  "variants": [
+   {
+    "id": "variant_4232",
+    "title": "Standard",
+    "sku": null,
+    "options": {},
+    "calculated_price": {
+     "calculated_amount": 2.48,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   }
+  ]
+ },
+ {
+  "id": "prod_3871",
+  "handle": "staubmaske-ffp2",
+  "title": "Staubmaske FFP2",
+  "subtitle": null,
+  "description": null,
+  "thumbnail": "/products/staubmaske-ffp2.webp",
+  "categories": [
+   {
+    "handle": "zubehoer",
+    "name": "Zubehör"
+   }
+  ],
+  "metadata": {
+   "kind": "sale",
+   "brand": null,
+   "rank": 5065
+  },
+  "options": [],
+  "variants": [
+   {
+    "id": "variant_3871",
+    "title": "Standard",
+    "sku": null,
+    "options": {},
+    "calculated_price": {
+     "calculated_amount": 1.42,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   }
+  ]
+ },
+ {
+  "id": "prod_3870",
+  "handle": "buegel-fuer-230mm-rolle",
+  "title": "Bügel für 230mm Rolle",
+  "subtitle": null,
+  "description": null,
+  "thumbnail": "/products/buegel-fuer-230mm-rolle.webp",
+  "categories": [
+   {
+    "handle": "zubehoer",
+    "name": "Zubehör"
+   }
+  ],
+  "metadata": {
+   "kind": "sale",
+   "brand": null,
+   "rank": 5066
+  },
+  "options": [],
+  "variants": [
+   {
+    "id": "variant_3870",
+    "title": "Standard",
+    "sku": null,
+    "options": {},
+    "calculated_price": {
+     "calculated_amount": 2.48,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   }
+  ]
+ },
+ {
+  "id": "prod_3869",
+  "handle": "pinsel",
+  "title": "Pinsel",
+  "subtitle": null,
+  "description": null,
+  "thumbnail": "/products/pinsel.webp",
+  "categories": [
+   {
+    "handle": "zubehoer",
+    "name": "Zubehör"
+   }
+  ],
+  "metadata": {
+   "kind": "sale",
+   "brand": null,
+   "rank": 5067
+  },
+  "options": [],
+  "variants": [
+   {
+    "id": "variant_3869",
+    "title": "Standard",
+    "sku": null,
+    "options": {},
+    "calculated_price": {
+     "calculated_amount": 6.5,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   }
+  ]
+ },
+ {
+  "id": "prod_3868",
+  "handle": "lackrolle-velour",
+  "title": "Lackrolle Velour",
+  "subtitle": null,
+  "description": null,
+  "thumbnail": "/products/lackrolle-velour.webp",
+  "categories": [
+   {
+    "handle": "zubehoer",
+    "name": "Zubehör"
+   }
+  ],
+  "metadata": {
+   "kind": "sale",
+   "brand": null,
+   "rank": 5068
+  },
+  "options": [
+   {
+    "id": "opt_3868_groesse",
+    "title": "Größe",
+    "values": [
+     "Lackrolle Velour 10cm",
+     "Lackrolle Velour 25cm"
+    ]
+   }
+  ],
+  "variants": [
+   {
+    "id": "variant_4282",
+    "title": "Lackrolle Velour 10cm",
+    "sku": null,
+    "options": {
+     "Größe": "Lackrolle Velour 10cm"
+    },
+    "calculated_price": {
+     "calculated_amount": 3.49,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   },
+   {
+    "id": "variant_4281",
+    "title": "Lackrolle Velour 25cm",
+    "sku": null,
+    "options": {
+     "Größe": "Lackrolle Velour 25cm"
+    },
+    "calculated_price": {
+     "calculated_amount": 7.93,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   }
+  ]
+ },
+ {
+  "id": "prod_3867",
+  "handle": "buegel-fuer-10cm-rolle",
+  "title": "Bügel für 10cm Rolle",
+  "subtitle": null,
+  "description": null,
+  "thumbnail": "/products/buegel-fuer-10cm-rolle.webp",
+  "categories": [
+   {
+    "handle": "zubehoer",
+    "name": "Zubehör"
+   }
+  ],
+  "metadata": {
+   "kind": "sale",
+   "brand": null,
+   "rank": 5069
+  },
+  "options": [],
+  "variants": [
+   {
+    "id": "variant_3867",
+    "title": "Standard",
+    "sku": null,
+    "options": {},
+    "calculated_price": {
+     "calculated_amount": 3.05,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   }
+  ]
+ },
+ {
+  "id": "prod_3866",
+  "handle": "avalon-hartwachsoel-2-5l",
+  "title": "Avalon Hartwachsöl 2,5 l",
+  "subtitle": null,
+  "description": null,
+  "thumbnail": "/products/avalon-hartwachsoel-2-5l.webp",
+  "categories": [
+   {
+    "handle": "oele",
+    "name": "Öle"
+   }
+  ],
+  "metadata": {
+   "kind": "sale",
+   "brand": null,
+   "rank": 4070
+  },
+  "options": [],
+  "variants": [
+   {
+    "id": "variant_3866",
+    "title": "Standard",
+    "sku": null,
+    "options": {},
+    "calculated_price": {
+     "calculated_amount": 95.85,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   }
+  ]
+ },
+ {
+  "id": "prod_3865",
+  "handle": "wasserlack-posidon-10l",
+  "title": "Wasserlack Posidon 10 l",
+  "subtitle": null,
+  "description": null,
+  "thumbnail": "/products/wasserlack-posidon-10l.webp",
+  "categories": [
+   {
+    "handle": "lacke",
+    "name": "Lacke"
+   }
+  ],
+  "metadata": {
+   "kind": "sale",
+   "brand": null,
+   "rank": 3071
+  },
+  "options": [],
+  "variants": [
+   {
+    "id": "variant_3865",
+    "title": "Standard",
+    "sku": null,
+    "options": {},
+    "calculated_price": {
+     "calculated_amount": 168.52,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   }
+  ]
+ },
+ {
+  "id": "prod_3864",
+  "handle": "wasserlack-casanova-10l",
+  "title": "Wasserlack Casanova 10 l",
+  "subtitle": null,
+  "description": null,
+  "thumbnail": "/products/wasserlack-casanova-10l.webp",
+  "categories": [
+   {
+    "handle": "lacke",
+    "name": "Lacke"
+   }
+  ],
+  "metadata": {
+   "kind": "sale",
+   "brand": null,
+   "rank": 3072
+  },
+  "options": [],
+  "variants": [
+   {
+    "id": "variant_3864",
+    "title": "Standard",
+    "sku": null,
+    "options": {},
+    "calculated_price": {
+     "calculated_amount": 145.0,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   }
+  ]
+ },
+ {
+  "id": "prod_3863",
+  "handle": "normalpad-406mm-marone",
+  "title": "Normalpad 406mm marone",
+  "subtitle": null,
+  "description": null,
+  "thumbnail": "/products/normalpad-406mm-marone.webp",
+  "categories": [
+   {
+    "handle": "schleifscheiben",
+    "name": "Schleifscheiben"
+   }
+  ],
+  "metadata": {
+   "kind": "sale",
+   "brand": null,
+   "rank": 2073
+  },
+  "options": [],
+  "variants": [
+   {
+    "id": "variant_3863",
+    "title": "Standard",
+    "sku": null,
+    "options": {},
+    "calculated_price": {
+     "calculated_amount": 10.12,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 0,
+    "allow_backorder": false
+   }
+  ]
+ },
+ {
+  "id": "prod_3862",
+  "handle": "superpad-406mm-beige",
+  "title": "Superpad 406mm beige",
+  "subtitle": null,
+  "description": null,
+  "thumbnail": "/products/superpad-406mm-beige.webp",
+  "categories": [
+   {
+    "handle": "schleifscheiben",
+    "name": "Schleifscheiben"
+   }
+  ],
+  "metadata": {
+   "kind": "sale",
+   "brand": null,
+   "rank": 2074
+  },
+  "options": [],
+  "variants": [
+   {
+    "id": "variant_3862",
+    "title": "Standard",
+    "sku": null,
+    "options": {},
+    "calculated_price": {
+     "calculated_amount": 7.71,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   }
+  ]
+ },
+ {
+  "id": "prod_3861",
+  "handle": "normalpad-406mm-beige",
+  "title": "Normalpad 406mm beige",
+  "subtitle": null,
+  "description": null,
+  "thumbnail": "/products/normalpad-406mm-beige.webp",
+  "categories": [
+   {
+    "handle": "schleifscheiben",
+    "name": "Schleifscheiben"
+   }
+  ],
+  "metadata": {
+   "kind": "sale",
+   "brand": null,
+   "rank": 2075
+  },
+  "options": [],
+  "variants": [
+   {
+    "id": "variant_3861",
+    "title": "Standard",
+    "sku": null,
+    "options": {},
+    "calculated_price": {
+     "calculated_amount": 4.19,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   }
+  ]
+ },
+ {
+  "id": "prod_3857",
+  "handle": "lackrolle-microfaser",
+  "title": "Lackrolle Microfaser",
+  "subtitle": null,
+  "description": null,
+  "thumbnail": "/products/lackrolle-microfaser.webp",
+  "categories": [
+   {
+    "handle": "zubehoer",
+    "name": "Zubehör"
+   }
+  ],
+  "metadata": {
+   "kind": "sale",
+   "brand": null,
+   "rank": 5076
+  },
+  "options": [
+   {
+    "id": "opt_3857_groesse",
+    "title": "Größe",
+    "values": [
+     "10cm",
+     "23cm"
+    ]
+   }
+  ],
+  "variants": [
+   {
+    "id": "variant_3859",
+    "title": "10cm",
+    "sku": null,
+    "options": {
+     "Größe": "10cm"
+    },
+    "calculated_price": {
+     "calculated_amount": 2.93,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   },
+   {
+    "id": "variant_3858",
+    "title": "23cm",
+    "sku": null,
+    "options": {
+     "Größe": "23cm"
+    },
+    "calculated_price": {
+     "calculated_amount": 8.0,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   }
+  ]
+ },
+ {
+  "id": "prod_3852",
+  "handle": "schleifgitter",
+  "title": "Schleifgitter",
+  "subtitle": null,
+  "description": null,
+  "thumbnail": "/products/schleifgitter.webp",
+  "categories": [
+   {
+    "handle": "schleifscheiben",
+    "name": "Schleifscheiben"
+   }
+  ],
+  "metadata": {
+   "kind": "sale",
+   "brand": null,
+   "rank": 2077
+  },
+  "options": [
+   {
+    "id": "opt_3852_groesse",
+    "title": "Größe",
+    "values": [
+     "Ø 400 mm"
+    ]
+   },
+   {
+    "id": "opt_3852_koernung",
+    "title": "Körnung",
+    "values": [
+     "60",
+     "80",
+     "100",
+     "120"
+    ]
+   }
+  ],
+  "variants": [
+   {
+    "id": "variant_3856",
+    "title": "Ø 400 mm / 120",
+    "sku": null,
+    "options": {
+     "Größe": "Ø 400 mm",
+     "Körnung": "120"
+    },
+    "calculated_price": {
+     "calculated_amount": 3.59,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   },
+   {
+    "id": "variant_3855",
+    "title": "Ø 400 mm / 100",
+    "sku": null,
+    "options": {
+     "Größe": "Ø 400 mm",
+     "Körnung": "100"
+    },
+    "calculated_price": {
+     "calculated_amount": 3.59,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   },
+   {
+    "id": "variant_3854",
+    "title": "Ø 400 mm / 80",
+    "sku": null,
+    "options": {
+     "Größe": "Ø 400 mm",
+     "Körnung": "80"
+    },
+    "calculated_price": {
+     "calculated_amount": 3.97,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   },
+   {
+    "id": "variant_3853",
+    "title": "Ø 400 mm / 60",
+    "sku": null,
+    "options": {
+     "Größe": "Ø 400 mm",
+     "Körnung": "60"
+    },
+    "calculated_price": {
+     "calculated_amount": 4.17,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   }
+  ]
+ },
+ {
+  "id": "prod_3844",
+  "handle": "doppelschleifscheibe",
+  "title": "Doppelschleifscheibe",
+  "subtitle": null,
+  "description": null,
+  "thumbnail": "/products/doppelschleifscheibe.webp",
+  "categories": [
+   {
+    "handle": "schleifscheiben",
+    "name": "Schleifscheiben"
+   }
+  ],
+  "metadata": {
+   "kind": "sale",
+   "brand": null,
+   "rank": 2078
+  },
+  "options": [
+   {
+    "id": "opt_3844_groesse",
+    "title": "Größe",
+    "values": [
+     "Ø 400 mm, 25 mm"
+    ]
+   },
+   {
+    "id": "opt_3844_koernung",
+    "title": "Körnung",
+    "values": [
+     "16",
+     "24",
+     "36",
+     "60",
+     "80",
+     "100",
+     "120"
+    ]
+   }
+  ],
+  "variants": [
+   {
+    "id": "variant_3851",
+    "title": "Ø 400 mm, 25 mm / 120",
+    "sku": null,
+    "options": {
+     "Größe": "Ø 400 mm, 25 mm",
+     "Körnung": "120"
+    },
+    "calculated_price": {
+     "calculated_amount": 5.41,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   },
+   {
+    "id": "variant_3850",
+    "title": "Ø 400 mm, 25 mm / 100",
+    "sku": null,
+    "options": {
+     "Größe": "Ø 400 mm, 25 mm",
+     "Körnung": "100"
+    },
+    "calculated_price": {
+     "calculated_amount": 5.41,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   },
+   {
+    "id": "variant_3849",
+    "title": "Ø 400 mm, 25 mm / 80",
+    "sku": null,
+    "options": {
+     "Größe": "Ø 400 mm, 25 mm",
+     "Körnung": "80"
+    },
+    "calculated_price": {
+     "calculated_amount": 5.78,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   },
+   {
+    "id": "variant_3848",
+    "title": "Ø 400 mm, 25 mm / 60",
+    "sku": null,
+    "options": {
+     "Größe": "Ø 400 mm, 25 mm",
+     "Körnung": "60"
+    },
+    "calculated_price": {
+     "calculated_amount": 6.69,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   },
+   {
+    "id": "variant_3847",
+    "title": "Ø 400 mm, 25 mm / 36",
+    "sku": null,
+    "options": {
+     "Größe": "Ø 400 mm, 25 mm",
+     "Körnung": "36"
+    },
+    "calculated_price": {
+     "calculated_amount": 8.04,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   },
+   {
+    "id": "variant_3846",
+    "title": "Ø 400 mm, 25 mm / 24",
+    "sku": null,
+    "options": {
+     "Größe": "Ø 400 mm, 25 mm",
+     "Körnung": "24"
+    },
+    "calculated_price": {
+     "calculated_amount": 9.4,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   },
+   {
+    "id": "variant_3845",
+    "title": "Ø 400 mm, 25 mm / 16",
+    "sku": null,
+    "options": {
+     "Größe": "Ø 400 mm, 25 mm",
+     "Körnung": "16"
+    },
+    "calculated_price": {
+     "calculated_amount": 10.9,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   }
+  ]
+ },
+ {
+  "id": "prod_3840",
+  "handle": "klettscheibe",
+  "title": "Klettscheibe",
+  "subtitle": null,
+  "description": null,
+  "thumbnail": "/products/klettscheibe.webp",
+  "categories": [
+   {
+    "handle": "schleifscheiben",
+    "name": "Schleifscheiben"
+   }
+  ],
+  "metadata": {
+   "kind": "sale",
+   "brand": null,
+   "rank": 2079
+  },
+  "options": [
+   {
+    "id": "opt_3840_groesse",
+    "title": "Größe",
+    "values": [
+     "Ø 150 mm Keramik",
+     "Ø 150 mm"
+    ]
+   },
+   {
+    "id": "opt_3840_koernung",
+    "title": "Körnung",
+    "values": [
+     "24",
+     "40",
+     "60",
+     "80",
+     "100",
+     "120"
+    ]
+   }
+  ],
+  "variants": [
+   {
+    "id": "variant_4260",
+    "title": "Ø 150 mm Keramik / 120",
+    "sku": null,
+    "options": {
+     "Größe": "Ø 150 mm Keramik",
+     "Körnung": "120"
+    },
+    "calculated_price": {
+     "calculated_amount": 0.83,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   },
+   {
+    "id": "variant_4259",
+    "title": "Ø 150 mm Keramik / 80",
+    "sku": null,
+    "options": {
+     "Größe": "Ø 150 mm Keramik",
+     "Körnung": "80"
+    },
+    "calculated_price": {
+     "calculated_amount": 0.89,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   },
+   {
+    "id": "variant_4257",
+    "title": "Ø 150 mm Keramik / 40",
+    "sku": null,
+    "options": {
+     "Größe": "Ø 150 mm Keramik",
+     "Körnung": "40"
+    },
+    "calculated_price": {
+     "calculated_amount": 1.07,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   },
+   {
+    "id": "variant_4239",
+    "title": "Ø 150 mm / 100",
+    "sku": null,
+    "options": {
+     "Größe": "Ø 150 mm",
+     "Körnung": "100"
+    },
+    "calculated_price": {
+     "calculated_amount": 0.6,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   },
+   {
+    "id": "variant_4238",
+    "title": "Ø 150 mm / 60",
+    "sku": null,
+    "options": {
+     "Größe": "Ø 150 mm",
+     "Körnung": "60"
+    },
+    "calculated_price": {
+     "calculated_amount": 0.65,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   },
+   {
+    "id": "variant_4237",
+    "title": "Ø 150 mm / 24",
+    "sku": null,
+    "options": {
+     "Größe": "Ø 150 mm",
+     "Körnung": "24"
+    },
+    "calculated_price": {
+     "calculated_amount": 0.83,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   },
+   {
+    "id": "variant_3843",
+    "title": "Ø 150 mm / 120",
+    "sku": null,
+    "options": {
+     "Größe": "Ø 150 mm",
+     "Körnung": "120"
+    },
+    "calculated_price": {
+     "calculated_amount": 0.6,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   },
+   {
+    "id": "variant_3842",
+    "title": "Ø 150 mm / 80",
+    "sku": null,
+    "options": {
+     "Größe": "Ø 150 mm",
+     "Körnung": "80"
+    },
+    "calculated_price": {
+     "calculated_amount": 0.6,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   },
+   {
+    "id": "variant_3841",
+    "title": "Ø 150 mm / 40",
+    "sku": null,
+    "options": {
+     "Größe": "Ø 150 mm",
+     "Körnung": "40"
+    },
+    "calculated_price": {
+     "calculated_amount": 0.71,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   }
+  ]
+ },
+ {
+  "id": "prod_3838",
+  "handle": "klettscheibe-staub-loecher",
+  "title": "Klettscheibe mit Staublöchern",
+  "subtitle": null,
+  "description": null,
+  "thumbnail": "/products/klettscheibe-staub-loecher.webp",
+  "categories": [
+   {
+    "handle": "schleifscheiben",
+    "name": "Schleifscheiben"
+   }
+  ],
+  "metadata": {
+   "kind": "sale",
+   "brand": null,
+   "rank": 2080
+  },
+  "options": [
+   {
+    "id": "opt_3838_groesse",
+    "title": "Größe",
+    "values": [
+     "Ø 150 mm"
+    ]
+   },
+   {
+    "id": "opt_3838_koernung",
+    "title": "Körnung",
+    "values": [
+     "40",
+     "80",
+     "120"
+    ]
+   }
+  ],
+  "variants": [
+   {
+    "id": "variant_4286",
+    "title": "Ø 150 mm / 120",
+    "sku": null,
+    "options": {
+     "Größe": "Ø 150 mm",
+     "Körnung": "120"
+    },
+    "calculated_price": {
+     "calculated_amount": 0.56,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   },
+   {
+    "id": "variant_4284",
+    "title": "Ø 150 mm / 80",
+    "sku": null,
+    "options": {
+     "Größe": "Ø 150 mm",
+     "Körnung": "80"
+    },
+    "calculated_price": {
+     "calculated_amount": 0.6,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   },
+   {
+    "id": "variant_4278",
+    "title": "Ø 150 mm / 40",
+    "sku": null,
+    "options": {
+     "Größe": "Ø 150 mm",
+     "Körnung": "40"
+    },
+    "calculated_price": {
+     "calculated_amount": 0.71,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   }
+  ]
+ },
+ {
+  "id": "prod_3830",
+  "handle": "fiberscheibe",
+  "title": "Fiberscheibe",
+  "subtitle": null,
+  "description": null,
+  "thumbnail": "/products/fiberscheibe.webp",
+  "categories": [
+   {
+    "handle": "schleifscheiben",
+    "name": "Schleifscheiben"
+   }
+  ],
+  "metadata": {
+   "kind": "sale",
+   "brand": null,
+   "rank": 2081
+  },
+  "options": [
+   {
+    "id": "opt_3830_groesse",
+    "title": "Größe",
+    "values": [
+     "178×22",
+     "178x22mm"
+    ]
+   },
+   {
+    "id": "opt_3830_koernung",
+    "title": "Körnung",
+    "values": [
+     "16",
+     "24",
+     "40",
+     "60",
+     "80",
+     "100",
+     "120"
+    ]
+   }
+  ],
+  "variants": [
+   {
+    "id": "variant_4302",
+    "title": "178×22 / 120",
+    "sku": null,
+    "options": {
+     "Größe": "178×22",
+     "Körnung": "120"
+    },
+    "calculated_price": {
+     "calculated_amount": 1.0,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   },
+   {
+    "id": "variant_3836",
+    "title": "178x22mm / 100",
+    "sku": null,
+    "options": {
+     "Größe": "178x22mm",
+     "Körnung": "100"
+    },
+    "calculated_price": {
+     "calculated_amount": 1.1,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   },
+   {
+    "id": "variant_3835",
+    "title": "178x22mm / 80",
+    "sku": null,
+    "options": {
+     "Größe": "178x22mm",
+     "Körnung": "80"
+    },
+    "calculated_price": {
+     "calculated_amount": 1.2,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   },
+   {
+    "id": "variant_3834",
+    "title": "178x22mm / 60",
+    "sku": null,
+    "options": {
+     "Größe": "178x22mm",
+     "Körnung": "60"
+    },
+    "calculated_price": {
+     "calculated_amount": 1.4,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   },
+   {
+    "id": "variant_3833",
+    "title": "178x22mm / 40",
+    "sku": null,
+    "options": {
+     "Größe": "178x22mm",
+     "Körnung": "40"
+    },
+    "calculated_price": {
+     "calculated_amount": 1.7,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   },
+   {
+    "id": "variant_3832",
+    "title": "178x22mm / 24",
+    "sku": null,
+    "options": {
+     "Größe": "178x22mm",
+     "Körnung": "24"
+    },
+    "calculated_price": {
+     "calculated_amount": 1.7,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   },
+   {
+    "id": "variant_3831",
+    "title": "178x22mm / 16",
+    "sku": null,
+    "options": {
+     "Größe": "178x22mm",
+     "Körnung": "16"
+    },
+    "calculated_price": {
+     "calculated_amount": 1.9,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   }
+  ]
+ },
+ {
+  "id": "prod_3818",
+  "handle": "schleifband-hummel-elf",
+  "title": "Schleifband Hummel / ELF",
+  "subtitle": null,
+  "description": null,
+  "thumbnail": "/products/schleifband-hummel-elf.webp",
+  "categories": [
+   {
+    "handle": "schleifbaender",
+    "name": "Schleifbänder"
+   }
+  ],
+  "metadata": {
+   "kind": "sale",
+   "brand": null,
+   "rank": 1082
+  },
+  "options": [
+   {
+    "id": "opt_3818_groesse",
+    "title": "Größe",
+    "values": [
+     "200 × 550 mm · ELF",
+     "200 × 750 mm · Hummel"
+    ]
+   },
+   {
+    "id": "opt_3818_koernung",
+    "title": "Körnung",
+    "values": [
+     "12",
+     "16",
+     "24",
+     "36",
+     "40",
+     "60",
+     "80",
+     "100",
+     "120"
+    ]
+   }
+  ],
+  "variants": [
+   {
+    "id": "variant_4225",
+    "title": "200 × 550 mm · ELF / 100",
+    "sku": null,
+    "options": {
+     "Größe": "200 × 550 mm · ELF",
+     "Körnung": "100"
+    },
+    "calculated_price": {
+     "calculated_amount": 3.15,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   },
+   {
+    "id": "variant_4224",
+    "title": "200 × 550 mm · ELF / 120",
+    "sku": null,
+    "options": {
+     "Größe": "200 × 550 mm · ELF",
+     "Körnung": "120"
+    },
+    "calculated_price": {
+     "calculated_amount": 4.3,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   },
+   {
+    "id": "variant_4223",
+    "title": "200 × 550 mm · ELF / 80",
+    "sku": null,
+    "options": {
+     "Größe": "200 × 550 mm · ELF",
+     "Körnung": "80"
+    },
+    "calculated_price": {
+     "calculated_amount": 4.7,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   },
+   {
+    "id": "variant_4222",
+    "title": "200 × 550 mm · ELF / 60",
+    "sku": null,
+    "options": {
+     "Größe": "200 × 550 mm · ELF",
+     "Körnung": "60"
+    },
+    "calculated_price": {
+     "calculated_amount": 5.11,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   },
+   {
+    "id": "variant_4221",
+    "title": "200 × 550 mm · ELF / 40",
+    "sku": null,
+    "options": {
+     "Größe": "200 × 550 mm · ELF",
+     "Körnung": "40"
+    },
+    "calculated_price": {
+     "calculated_amount": 5.5,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   },
+   {
+    "id": "variant_4220",
+    "title": "200 × 550 mm · ELF / 36",
+    "sku": null,
+    "options": {
+     "Größe": "200 × 550 mm · ELF",
+     "Körnung": "36"
+    },
+    "calculated_price": {
+     "calculated_amount": 5.9,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   },
+   {
+    "id": "variant_4219",
+    "title": "200 × 550 mm · ELF / 24",
+    "sku": null,
+    "options": {
+     "Größe": "200 × 550 mm · ELF",
+     "Körnung": "24"
+    },
+    "calculated_price": {
+     "calculated_amount": 5.9,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   },
+   {
+    "id": "variant_4217",
+    "title": "200 × 550 mm · ELF / 16",
+    "sku": null,
+    "options": {
+     "Größe": "200 × 550 mm · ELF",
+     "Körnung": "16"
+    },
+    "calculated_price": {
+     "calculated_amount": 6.3,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   },
+   {
+    "id": "variant_4216",
+    "title": "200 × 550 mm · ELF / 12",
+    "sku": null,
+    "options": {
+     "Größe": "200 × 550 mm · ELF",
+     "Körnung": "12"
+    },
+    "calculated_price": {
+     "calculated_amount": 7.5,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   },
+   {
+    "id": "variant_4163",
+    "title": "200 × 750 mm · Hummel / 12",
+    "sku": null,
+    "options": {
+     "Größe": "200 × 750 mm · Hummel",
+     "Körnung": "12"
+    },
+    "calculated_price": {
+     "calculated_amount": 7.9,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   },
+   {
+    "id": "variant_4161",
+    "title": "200 × 750 mm · Hummel / 100",
+    "sku": null,
+    "options": {
+     "Größe": "200 × 750 mm · Hummel",
+     "Körnung": "100"
+    },
+    "calculated_price": {
+     "calculated_amount": 5.6,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   },
+   {
+    "id": "variant_4139",
+    "title": "200 × 750 mm · Hummel / 120",
+    "sku": null,
+    "options": {
+     "Größe": "200 × 750 mm · Hummel",
+     "Körnung": "120"
+    },
+    "calculated_price": {
+     "calculated_amount": 5.2,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   },
+   {
+    "id": "variant_3828",
+    "title": "200 × 750 mm · Hummel / 80",
+    "sku": null,
+    "options": {
+     "Größe": "200 × 750 mm · Hummel",
+     "Körnung": "80"
+    },
+    "calculated_price": {
+     "calculated_amount": 5.6,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   },
+   {
+    "id": "variant_3827",
+    "title": "200 × 750 mm · Hummel / 60",
+    "sku": null,
+    "options": {
+     "Größe": "200 × 750 mm · Hummel",
+     "Körnung": "60"
+    },
+    "calculated_price": {
+     "calculated_amount": 6.0,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   },
+   {
+    "id": "variant_3826",
+    "title": "200 × 750 mm · Hummel / 40",
+    "sku": null,
+    "options": {
+     "Größe": "200 × 750 mm · Hummel",
+     "Körnung": "40"
+    },
+    "calculated_price": {
+     "calculated_amount": 6.4,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   },
+   {
+    "id": "variant_3825",
+    "title": "200 × 750 mm · Hummel / 24",
+    "sku": null,
+    "options": {
+     "Größe": "200 × 750 mm · Hummel",
+     "Körnung": "24"
+    },
+    "calculated_price": {
+     "calculated_amount": 6.79,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   },
+   {
+    "id": "variant_3824",
+    "title": "200 × 750 mm · Hummel / 16",
+    "sku": null,
+    "options": {
+     "Größe": "200 × 750 mm · Hummel",
+     "Körnung": "16"
+    },
+    "calculated_price": {
+     "calculated_amount": 7.1,
+     "currency_code": "eur"
+    },
+    "inventory_quantity": 50,
+    "allow_backorder": false
+   }
+  ]
+ }
+]

@@ -1,0 +1,132 @@
+@import "tailwindcss";
+
+/* Schleifpunkt Berlin — a clean, conventional storefront.
+   Brand green from the logo, white surfaces, one sans family. */
+
+:root {
+  --bg: #ffffff;
+  --surface: #f5f5f2;
+  --surface-2: #eceee9;
+  --border: #e1e3de;
+  --border-strong: #c9ccc5;
+  --text: #1b1f1c;
+  --muted: #59625c;
+  --brand: #1f4a34;
+  --brand-hover: #173a29;
+  --brand-soft: #e7efe9;
+  --accent: #f2c230;
+  --accent-soft: #fdf3cf;
+  --danger: #b42318;
+  --success: #1d7a45;
+}
+
+@theme inline {
+  --color-bg: var(--bg);
+  --color-surface: var(--surface);
+  --color-surface-2: var(--surface-2);
+  --color-line: var(--border);
+  --color-line-strong: var(--border-strong);
+  --color-ink: var(--text);
+  --color-muted: var(--muted);
+  --color-brand: var(--brand);
+  --color-brand-hover: var(--brand-hover);
+  --color-brand-soft: var(--brand-soft);
+  --color-accent: var(--accent);
+  --color-accent-soft: var(--accent-soft);
+  --color-danger: var(--danger);
+  --color-success: var(--success);
+  --font-sans: var(--font-sofia);
+}
+
+html {
+  background: var(--bg);
+  color: var(--text);
+  -webkit-text-size-adjust: 100%;
+  scrollbar-color: var(--border-strong) transparent;
+}
+
+body {
+  font-family: var(--font-sofia), system-ui, sans-serif;
+  font-size: 1rem;
+  line-height: 1.55;
+  background: var(--bg);
+  text-rendering: optimizeLegibility;
+}
+
+h1,
+h2,
+h3 {
+  text-wrap: balance;
+  letter-spacing: -0.01em;
+}
+
+::selection {
+  background: var(--brand);
+  color: #fff;
+}
+
+:focus-visible {
+  outline: 2px solid var(--brand);
+  outline-offset: 2px;
+}
+
+input {
+  caret-color: var(--brand);
+}
+
+a {
+  text-underline-offset: 0.2em;
+}
+
+.tabular {
+  font-variant-numeric: tabular-nums lining-nums;
+}
+
+input[type="date"]::-webkit-calendar-picker-indicator {
+  cursor: pointer;
+  opacity: 0.7;
+}
+
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  appearance: none;
+  margin: 0;
+}
+
+.no-scrollbar {
+  scrollbar-width: none;
+}
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+/* manufacturer photos on white backgrounds sit cleanly on tinted image wells */
+.product-photo {
+  mix-blend-mode: multiply;
+}
+
+@keyframes fade-up {
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+.fade-up {
+  animation: fade-up 260ms cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 1ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 1ms !important;
+    scroll-behavior: auto !important;
+  }
+}

@@ -1,0 +1,458 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-11-15T12:00:00Z",
+  "title": "Design System: Schleifpunkt Berlin",
+  "extensions": {
+    "colorMeta": {
+      "brand": {
+        "role": "primary",
+        "displayName": "Logo Green",
+        "canonical": "#1f4a34",
+        "tonalRamp": [
+          "#0f2519",
+          "#173a29",
+          "#1f4a34",
+          "#2f6a4c",
+          "#4e8a6a",
+          "#86b39a",
+          "#c3dbcc",
+          "#e7efe9"
+        ]
+      },
+      "brand-hover": {
+        "role": "primary",
+        "displayName": "Deep Logo Green",
+        "canonical": "#173a29",
+        "tonalRamp": [
+          "#0b1c13",
+          "#122d20",
+          "#173a29",
+          "#24543c",
+          "#3f7558",
+          "#7aa58c",
+          "#bdd5c6",
+          "#e7efe9"
+        ]
+      },
+      "brand-soft": {
+        "role": "primary",
+        "displayName": "Pale Sage",
+        "canonical": "#e7efe9",
+        "tonalRamp": [
+          "#1f4a34",
+          "#3d6a52",
+          "#5f8a72",
+          "#86a996",
+          "#aec7b8",
+          "#cfdfd5",
+          "#e7efe9",
+          "#f4f8f5"
+        ]
+      },
+      "accent": {
+        "role": "secondary",
+        "displayName": "Signal Yellow",
+        "canonical": "#f2c230",
+        "tonalRamp": [
+          "#4a3a07",
+          "#7a600c",
+          "#ab8714",
+          "#d6a91f",
+          "#f2c230",
+          "#f6d266",
+          "#fae5a3",
+          "#fdf3cf"
+        ]
+      },
+      "accent-soft": {
+        "role": "secondary",
+        "displayName": "Pale Signal Yellow",
+        "canonical": "#fdf3cf",
+        "tonalRamp": [
+          "#7a600c",
+          "#ab8714",
+          "#d6a91f",
+          "#f2c230",
+          "#f6d266",
+          "#fae5a3",
+          "#fdf3cf",
+          "#fefaea"
+        ]
+      },
+      "bg": {
+        "role": "neutral",
+        "displayName": "White",
+        "canonical": "#ffffff",
+        "tonalRamp": [
+          "#1b1f1c",
+          "#3a403c",
+          "#59625c",
+          "#8a918c",
+          "#c9ccc5",
+          "#e1e3de",
+          "#f5f5f2",
+          "#ffffff"
+        ]
+      },
+      "surface": {
+        "role": "neutral",
+        "displayName": "Warm Grey Well",
+        "canonical": "#f5f5f2",
+        "tonalRamp": [
+          "#1b1f1c",
+          "#3a403c",
+          "#59625c",
+          "#8a918c",
+          "#c9ccc5",
+          "#e1e3de",
+          "#eceee9",
+          "#f5f5f2"
+        ]
+      },
+      "surface-2": {
+        "role": "neutral",
+        "displayName": "Deeper Grey Well",
+        "canonical": "#eceee9",
+        "tonalRamp": [
+          "#1b1f1c",
+          "#3a403c",
+          "#59625c",
+          "#8a918c",
+          "#c9ccc5",
+          "#e1e3de",
+          "#eceee9",
+          "#f5f5f2"
+        ]
+      },
+      "line": {
+        "role": "neutral",
+        "displayName": "Hairline",
+        "canonical": "#e1e3de",
+        "tonalRamp": [
+          "#1b1f1c",
+          "#3a403c",
+          "#59625c",
+          "#8a918c",
+          "#c9ccc5",
+          "#e1e3de",
+          "#eceee9",
+          "#f5f5f2"
+        ]
+      },
+      "line-strong": {
+        "role": "neutral",
+        "displayName": "Strong Hairline",
+        "canonical": "#c9ccc5",
+        "tonalRamp": [
+          "#1b1f1c",
+          "#3a403c",
+          "#59625c",
+          "#8a918c",
+          "#c9ccc5",
+          "#e1e3de",
+          "#eceee9",
+          "#f5f5f2"
+        ]
+      },
+      "ink": {
+        "role": "neutral",
+        "displayName": "Ink",
+        "canonical": "#1b1f1c",
+        "tonalRamp": [
+          "#0d0f0e",
+          "#1b1f1c",
+          "#3a403c",
+          "#59625c",
+          "#8a918c",
+          "#c9ccc5",
+          "#e1e3de",
+          "#f5f5f2"
+        ]
+      },
+      "muted": {
+        "role": "neutral",
+        "displayName": "Muted Grey-Green",
+        "canonical": "#59625c",
+        "tonalRamp": [
+          "#1b1f1c",
+          "#3a403c",
+          "#59625c",
+          "#737c76",
+          "#8a918c",
+          "#c9ccc5",
+          "#e1e3de",
+          "#f5f5f2"
+        ]
+      },
+      "danger": {
+        "role": "error",
+        "displayName": "Danger Red",
+        "canonical": "#b42318",
+        "tonalRamp": [
+          "#3d0b07",
+          "#6b140d",
+          "#912018",
+          "#b42318",
+          "#d9493c",
+          "#ec8a80",
+          "#f7c6c1",
+          "#fdecea"
+        ]
+      },
+      "success": {
+        "role": "success",
+        "displayName": "Success Green",
+        "canonical": "#1d7a45",
+        "tonalRamp": [
+          "#0a2a18",
+          "#12492a",
+          "#1d7a45",
+          "#2c955a",
+          "#55b37e",
+          "#94d1ad",
+          "#cbe9d7",
+          "#ebf7f0"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "hero": {
+        "displayName": "Hero",
+        "purpose": "Home hero headline on the photo, white. One per site."
+      },
+      "display": {
+        "displayName": "Display",
+        "purpose": "Page H1 on listings, product detail, cart, checkout and info pages."
+      },
+      "headline": {
+        "displayName": "Headline",
+        "purpose": "Section H2 on the home page and long-form pages."
+      },
+      "title": {
+        "displayName": "Title",
+        "purpose": "Sub-section headings in cart and checkout; 1.125rem for summary panel headings."
+      },
+      "price": {
+        "displayName": "Price",
+        "purpose": "Card prices, bold and tabular; units drop to 0.875rem semibold muted."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "Default reading text; prose capped at 65ch."
+      },
+      "body-sm": {
+        "displayName": "Body small",
+        "purpose": "Nav links, sidebar rows, summaries, footer lists, sort select."
+      },
+      "label": {
+        "displayName": "Label",
+        "purpose": "Form labels in semibold ink; regular muted for helper text and breadcrumbs."
+      },
+      "meta": {
+        "displayName": "Meta",
+        "purpose": "Muted category line above product names."
+      }
+    },
+    "shadows": [
+      {
+        "name": "hover-lift",
+        "value": "0 8px 24px -12px rgb(27 31 28 / 0.3)",
+        "purpose": "Product cards and category tiles on hover only."
+      },
+      {
+        "name": "floating-layer",
+        "value": "0 12px 32px -8px rgb(27 31 28 / 0.25)",
+        "purpose": "Search suggestions dropdown."
+      },
+      {
+        "name": "drawer",
+        "value": "0 20px 25px -5px rgb(0 0 0 / 0.1), 0 8px 10px -6px rgb(0 0 0 / 0.1)",
+        "purpose": "Mobile menu drawer over a 40% ink backdrop."
+      }
+    ],
+    "motion": [
+      {
+        "name": "fade-up",
+        "value": "260ms cubic-bezier(0.16, 1, 0.3, 1)",
+        "purpose": "Entrance for dropdowns, the drawer and the cart count: 6px rise plus fade."
+      },
+      {
+        "name": "image-hover",
+        "value": "transform 300ms",
+        "purpose": "Product photo scales to 1.03 on card hover."
+      },
+      {
+        "name": "accordion-chevron",
+        "value": "transform 200ms",
+        "purpose": "FAQ chevron rotates 180 degrees when open."
+      },
+      {
+        "name": "color-transition",
+        "value": "150ms cubic-bezier(0.4, 0, 0.2, 1)",
+        "purpose": "Default color and shadow transitions on buttons, links and fields."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "sm",
+        "value": "640px"
+      },
+      {
+        "name": "md",
+        "value": "768px"
+      },
+      {
+        "name": "lg",
+        "value": "1024px"
+      },
+      {
+        "name": "xl",
+        "value": "1280px"
+      },
+      {
+        "name": "container",
+        "value": "1320px"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Primary Button",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "Logo-green solid button for every primary action; 48px large variant for cart and booking.",
+      "html": "<button class=\"ds-btn-primary\">In den Warenkorb</button>",
+      "css": ".ds-btn-primary { display: inline-flex; align-items: center; justify-content: center; gap: 8px; height: 44px; padding: 0 20px; border: 0; border-radius: 6px; background: var(--brand, #1f4a34); color: #fff; font-family: 'Sofia Sans', system-ui, sans-serif; font-size: 1rem; font-weight: 600; cursor: pointer; transition: background-color 150ms; } .ds-btn-primary:hover { background: var(--brand-hover, #173a29); } .ds-btn-primary:focus-visible { outline: 2px solid var(--brand, #1f4a34); outline-offset: 2px; } .ds-btn-primary:disabled { opacity: 0.5; cursor: not-allowed; }"
+    },
+    {
+      "name": "Secondary Button",
+      "kind": "button",
+      "refersTo": "button-secondary",
+      "description": "White outlined button for the alternative action and the selected rental toggle.",
+      "html": "<button class=\"ds-btn-secondary\">Zum Shop</button>",
+      "css": ".ds-btn-secondary { display: inline-flex; align-items: center; justify-content: center; gap: 8px; height: 44px; padding: 0 20px; border: 1px solid var(--border-strong, #c9ccc5); border-radius: 6px; background: #fff; color: var(--text, #1b1f1c); font-family: 'Sofia Sans', system-ui, sans-serif; font-size: 1rem; font-weight: 600; cursor: pointer; transition: background-color 150ms; } .ds-btn-secondary:hover { background: var(--surface, #f5f5f2); } .ds-btn-secondary:focus-visible { outline: 2px solid var(--brand, #1f4a34); outline-offset: 2px; }"
+    },
+    {
+      "name": "Accent Button",
+      "kind": "button",
+      "refersTo": "button-accent",
+      "description": "Signal-yellow CTA with ink text. Hero only; one per screen.",
+      "html": "<button class=\"ds-btn-accent\">Maschinen mieten <svg width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.9\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></button>",
+      "css": ".ds-btn-accent { display: inline-flex; align-items: center; justify-content: center; gap: 8px; height: 48px; padding: 0 24px; border: 0; border-radius: 6px; background: var(--accent, #f2c230); color: var(--text, #1b1f1c); font-family: 'Sofia Sans', system-ui, sans-serif; font-size: 1.02rem; font-weight: 600; cursor: pointer; transition: filter 150ms; } .ds-btn-accent:hover { filter: brightness(0.95); } .ds-btn-accent:focus-visible { outline: 2px solid var(--brand, #1f4a34); outline-offset: 2px; }"
+    },
+    {
+      "name": "Text Input",
+      "kind": "input",
+      "refersTo": "input",
+      "description": "44px white field with strong hairline; green border and soft ring on focus, red border when invalid.",
+      "html": "<label class=\"ds-label\">Abholung<input class=\"ds-input\" type=\"date\" value=\"2026-11-20\"></label>",
+      "css": ".ds-label { display: grid; gap: 6px; font-family: 'Sofia Sans', system-ui, sans-serif; font-size: 0.875rem; font-weight: 600; color: var(--text, #1b1f1c); } .ds-input { height: 44px; width: 100%; padding: 0 12px; border: 1px solid var(--border-strong, #c9ccc5); border-radius: 6px; background: #fff; color: var(--text, #1b1f1c); font: 400 0.98rem 'Sofia Sans', system-ui, sans-serif; font-variant-numeric: tabular-nums lining-nums; outline: none; caret-color: var(--brand, #1f4a34); transition: box-shadow 150ms; } .ds-input:focus { border-color: var(--brand, #1f4a34); box-shadow: 0 0 0 3px rgb(31 74 52 / 0.15); } .ds-input[aria-invalid=\"true\"] { border-color: var(--danger, #b42318); }"
+    },
+    {
+      "name": "Header Search",
+      "kind": "input",
+      "refersTo": "input",
+      "description": "Search combobox with inset icon and inline green submit; suggestions float below.",
+      "html": "<form class=\"ds-search\" role=\"search\"><svg class=\"ds-search-icon\" width=\"19\" height=\"19\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.9\" stroke-linecap=\"round\" aria-hidden=\"true\"><circle cx=\"11\" cy=\"11\" r=\"7\"/><path d=\"m20 20-3.5-3.5\"/></svg><input class=\"ds-search-input\" type=\"search\" placeholder=\"Suchen: Schleifband, Bona, Randschleifer …\"><button class=\"ds-search-btn\" type=\"submit\">Suchen</button></form>",
+      "css": ".ds-search { position: relative; width: 100%; max-width: 42rem; font-family: 'Sofia Sans', system-ui, sans-serif; } .ds-search-icon { position: absolute; left: 14px; top: 50%; transform: translateY(-50%); color: var(--muted, #59625c); pointer-events: none; } .ds-search-input { height: 44px; width: 100%; padding: 0 96px 0 44px; border: 1px solid var(--border-strong, #c9ccc5); border-radius: 6px; background: #fff; font: 400 0.98rem 'Sofia Sans', system-ui, sans-serif; color: var(--text, #1b1f1c); outline: none; } .ds-search-input::placeholder { color: rgb(89 98 92 / 0.8); } .ds-search-input:focus { border-color: var(--brand, #1f4a34); box-shadow: 0 0 0 3px rgb(31 74 52 / 0.15); } .ds-search-btn { position: absolute; right: 4px; top: 4px; height: 36px; padding: 0 16px; border: 0; border-radius: 5px; background: var(--brand, #1f4a34); color: #fff; font: 600 0.875rem 'Sofia Sans', system-ui, sans-serif; cursor: pointer; } .ds-search-btn:hover { background: var(--brand-hover, #173a29); } .ds-search-btn:focus-visible { outline: 2px solid var(--brand, #1f4a34); outline-offset: 2px; }"
+    },
+    {
+      "name": "Category Navigation",
+      "kind": "nav",
+      "refersTo": "category-item-active",
+      "description": "Header category row: semibold links that turn green, active item with a 2px green underline.",
+      "html": "<nav class=\"ds-nav\"><a class=\"ds-nav-link is-active\" href=\"#\">Maschinen mieten</a><a class=\"ds-nav-link\" href=\"#\">Schleifbänder</a><a class=\"ds-nav-link\" href=\"#\">Lacke</a><a class=\"ds-nav-link\" href=\"#\">Öle</a></nav>",
+      "css": ".ds-nav { display: flex; gap: 4px; border-top: 1px solid var(--border, #e1e3de); border-bottom: 1px solid var(--border, #e1e3de); background: #fff; font-family: 'Sofia Sans', system-ui, sans-serif; } .ds-nav-link { position: relative; display: inline-flex; align-items: center; height: 48px; padding: 0 12px; font-size: 0.95rem; font-weight: 600; color: var(--text, #1b1f1c); text-decoration: none; transition: color 150ms; } .ds-nav-link:hover { color: var(--brand, #1f4a34); } .ds-nav-link.is-active { color: var(--brand, #1f4a34); } .ds-nav-link.is-active::after { content: ''; position: absolute; left: 12px; right: 12px; bottom: 0; height: 2px; background: var(--brand, #1f4a34); } .ds-nav-link:focus-visible { outline: 2px solid var(--brand, #1f4a34); outline-offset: 2px; }"
+    },
+    {
+      "name": "Product Card",
+      "kind": "card",
+      "refersTo": "card",
+      "description": "Hairline card with square grey photo well, muted category, semibold name, bold tabular price; rental variant adds the yellow Miete badge.",
+      "html": "<article class=\"ds-card\"><div class=\"ds-card-well\"><span class=\"ds-badge\">Miete</span></div><div class=\"ds-card-body\"><p class=\"ds-card-meta\">Mietmaschine</p><h3 class=\"ds-card-title\"><a href=\"#\">Parkettschleifmaschine <span>· Hummel / ELF</span></a></h3><p class=\"ds-card-price\">25,00 €<span> / Tag</span></p></div></article>",
+      "css": ".ds-card { display: flex; flex-direction: column; width: 240px; border: 1px solid var(--border, #e1e3de); border-radius: 8px; background: #fff; font-family: 'Sofia Sans', system-ui, sans-serif; color: var(--text, #1b1f1c); transition: box-shadow 150ms; } .ds-card:hover { box-shadow: 0 8px 24px -12px rgb(27 31 28 / 0.3); } .ds-card-well { position: relative; aspect-ratio: 1; border-radius: 8px 8px 0 0; background: var(--surface, #f5f5f2); } .ds-badge { position: absolute; left: 10px; top: 10px; padding: 2px 8px; border-radius: 4px; background: var(--accent, #f2c230); color: var(--text, #1b1f1c); font-size: 0.75rem; font-weight: 700; } .ds-card-body { display: flex; flex-direction: column; padding: 16px; } .ds-card-meta { margin: 0; font-size: 0.8rem; font-weight: 500; color: var(--muted, #59625c); } .ds-card-title { margin: 2px 0 0; font-size: 1rem; font-weight: 600; line-height: 1.375; } .ds-card-title a { color: inherit; text-decoration: none; } .ds-card-title a:hover { color: var(--brand, #1f4a34); text-decoration: underline; } .ds-card-title span { font-weight: 400; color: var(--muted, #59625c); } .ds-card-price { margin: 0; padding-top: 12px; font-size: 1.125rem; font-weight: 700; font-variant-numeric: tabular-nums lining-nums; } .ds-card-price span { font-size: 0.875rem; font-weight: 600; color: var(--muted, #59625c); }"
+    },
+    {
+      "name": "Pagination",
+      "kind": "nav",
+      "refersTo": "pagination-cell",
+      "description": "Centered numbered pagination; current page solid green.",
+      "html": "<nav class=\"ds-pager\"><a class=\"ds-pager-cell\" href=\"#\">Zurück</a><a class=\"ds-pager-cell\" href=\"#\">1</a><a class=\"ds-pager-cell is-current\" href=\"#\" aria-current=\"page\">2</a><a class=\"ds-pager-cell\" href=\"#\">3</a><span class=\"ds-pager-gap\">…</span><a class=\"ds-pager-cell\" href=\"#\">8</a><a class=\"ds-pager-cell\" href=\"#\">Weiter</a></nav>",
+      "css": ".ds-pager { display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 6px; font-family: 'Sofia Sans', system-ui, sans-serif; } .ds-pager-cell { display: inline-flex; align-items: center; justify-content: center; height: 40px; min-width: 40px; padding: 0 12px; border: 1px solid var(--border, #e1e3de); border-radius: 6px; color: var(--text, #1b1f1c); font-size: 0.95rem; font-weight: 600; font-variant-numeric: tabular-nums; text-decoration: none; transition: background-color 150ms; } .ds-pager-cell:hover { background: var(--surface, #f5f5f2); } .ds-pager-cell.is-current { border-color: transparent; background: var(--brand, #1f4a34); color: #fff; } .ds-pager-cell:focus-visible { outline: 2px solid var(--brand, #1f4a34); outline-offset: 2px; } .ds-pager-gap { padding: 0 4px; color: var(--muted, #59625c); }"
+    },
+    {
+      "name": "Summary Panel",
+      "kind": "custom",
+      "refersTo": "summary-panel",
+      "description": "Warm-grey cart and checkout summary with tabular totals and the large primary action.",
+      "html": "<aside class=\"ds-summary\"><h2>Zusammenfassung</h2><dl><div><dt>Miete (2 Tage)</dt><dd>50,00 €</dd></div><div><dt>Einkauf</dt><dd>38,90 €</dd></div><div class=\"ds-summary-total\"><dt>Gesamt</dt><dd>88,90 €</dd></div></dl><p class=\"ds-summary-note\">inkl. 19 % MwSt., zzgl. Kaution bei Abholung</p><button class=\"ds-summary-btn\">Zur Kasse</button></aside>",
+      "css": ".ds-summary { width: 22rem; padding: 20px; border: 1px solid var(--border, #e1e3de); border-radius: 8px; background: var(--surface, #f5f5f2); font-family: 'Sofia Sans', system-ui, sans-serif; color: var(--text, #1b1f1c); } .ds-summary h2 { margin: 0; font-size: 1.125rem; font-weight: 700; } .ds-summary dl { display: grid; gap: 8px; margin: 16px 0 0; font-size: 0.95rem; font-variant-numeric: tabular-nums lining-nums; } .ds-summary dl div { display: flex; justify-content: space-between; gap: 16px; } .ds-summary dt { color: var(--muted, #59625c); } .ds-summary dd { margin: 0; } .ds-summary .ds-summary-total { margin-top: 8px; padding-top: 12px; border-top: 1px solid var(--border, #e1e3de); font-size: 1.125rem; font-weight: 700; } .ds-summary .ds-summary-total dt { color: var(--text, #1b1f1c); } .ds-summary-note { margin: 8px 0 0; font-size: 0.875rem; color: var(--muted, #59625c); } .ds-summary-btn { width: 100%; height: 48px; margin-top: 20px; border: 0; border-radius: 6px; background: var(--brand, #1f4a34); color: #fff; font: 600 1.02rem 'Sofia Sans', system-ui, sans-serif; cursor: pointer; } .ds-summary-btn:hover { background: var(--brand-hover, #173a29); } .ds-summary-btn:focus-visible { outline: 2px solid var(--brand, #1f4a34); outline-offset: 2px; }"
+    }
+  ],
+  "narrative": {
+    "northStar": "The Clean Counter",
+    "overview": "Schleifpunkt is the category standard executed cleanly: a German tool-and-DIY webshop in the lineage of Contorion and the Festool online shop. White pages, a warm light-grey well behind every product photo, hairline borders, and the logo's deep green on every primary action and active state. Renting a machine works like buying a product: same card, same grid, same cart. The visitor should recognise the shop's mechanics on sight and spend their attention on machines, prices and dates.\n\nDensity is retail-normal: four-up product grids on wide screens, 44px controls, compact meta lines, prices set bold with tabular figures. Depth is almost flat. Hairlines and the grey well do the structural work; a soft shadow appears only when a card is hovered or when something floats (suggestions dropdown, mobile drawer). One family, Sofia Sans, carries everything from the 800-weight hero headline to the 0.8rem category line.\n\nConvention is the commitment. A themed, decorative direction was rejected by the user in favour of a normal webshop, so the system has no signature quirk to protect; its rules exist to keep it ordinary, legible and fast to scan.",
+    "keyCharacteristics": [
+      "White pages, warm grey (#f5f5f2) image tiles and summary panels, hairline borders.",
+      "Logo green for primary actions, active navigation, current page and focus.",
+      "Signal yellow is rationed to three jobs: the hero CTA, the \"Miete\" badge, the cart count.",
+      "One sans family in 400 to 800; tabular numerals on every price, count and date.",
+      "Flat at rest; shadows only on hover and on floating layers.",
+      "8px cards, 6px controls, 4px badges."
+    ],
+    "rules": [
+      {
+        "name": "The Three Yellow Jobs Rule",
+        "body": "Signal yellow appears in exactly three places: the single hero CTA, the \"Miete\" rental badge, and the cart count. It never fills a second button on the same screen, never marks a sale, never becomes a section background. If a new element wants yellow, it should be green.",
+        "section": "colors"
+      },
+      {
+        "name": "The Green Means Go Rule",
+        "body": "Every primary action, every \"you are here\" marker and every focus ring is logo green. Green is not decoration; do not use it for large fills except the 36px service strip.",
+        "section": "colors"
+      },
+      {
+        "name": "The Ink On Yellow Rule",
+        "body": "Text on yellow is always ink (#1b1f1c), never white.",
+        "section": "colors"
+      },
+      {
+        "name": "The Tabular Money Rule",
+        "body": "Every price, count, date and page number uses tabular lining figures (the `.tabular` utility), so columns of prices align.",
+        "section": "typography"
+      },
+      {
+        "name": "The Weight Not Face Rule",
+        "body": "Hierarchy comes from weight and size in Sofia Sans. No second display face, no italics for emphasis, no letter-spaced uppercase labels above headings.",
+        "section": "typography"
+      },
+      {
+        "name": "The Familiar Grid Rule",
+        "body": "Product collections are always a uniform card grid of 2, 3 or 4 columns. No bento layouts, featured oversize tiles or carousels in place of a listing.",
+        "section": "layout"
+      },
+      {
+        "name": "The Flat-At-Rest Rule",
+        "body": "Nothing on the page carries a shadow at rest. Cards gain the hover lift; dropdowns and drawers carry theirs because they float. No hard offset shadows.",
+        "section": "elevation"
+      }
+    ],
+    "dos": [
+      "**Do** use logo green for every primary action, active marker, current page and focus ring.",
+      "**Do** keep yellow to its three jobs: the hero CTA, the \"Miete\" badge and the cart count, always with ink text.",
+      "**Do** put product photos in the warm-grey well (#f5f5f2) with multiply blending and contained fit.",
+      "**Do** lay product collections out as 2 / 3 / 4-column card grids inside the 1320px container, paginated at 20.",
+      "**Do** set prices, counts, dates and page numbers in tabular figures, with units in smaller muted text.",
+      "**Do** use 8px radius for cards and panels, 6px for controls, 4px for badges.",
+      "**Do** keep surfaces flat at rest; use the hover lift on cards and the floating shadow only for dropdowns and drawers."
+    ],
+    "donts": [
+      "**Don't** use yellow for a second button, a sale marker, a section background or decorative highlights.",
+      "**Don't** add a second typeface, decorative display type, or letter-spaced uppercase labels above headings.",
+      "**Don't** reintroduce themed or ornamental treatments (textures, enamel plates, stamps, illustrated frames); the user chose a conventional shop over a themed one.",
+      "**Don't** use hard offset shadows or shadows on resting cards.",
+      "**Don't** replace listings with carousels, bento grids or oversized featured tiles.",
+      "**Don't** put white text on yellow or on the pale tints."
+    ]
+  }
+}
